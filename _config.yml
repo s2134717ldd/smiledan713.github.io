@@ -23,7 +23,7 @@ repository               : "smiledan713/smiledan713.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_9131 (1).jpeg"
   name             : "Dandan Liu (Ivy)"
   pronouns         : "she/her"  
   bio              : "PhD Candidate | Media & Communication | Social Media, Crisis Communication, Computational Communication"
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

@@ -21,27 +21,30 @@ Education
 * **Ph.D. Candidate** in Media and Communication, Department of Media and Communication Studies, Faculty of Arts and Social Sciences, Universiti Malaya, 2021-2026 (expected)
 
 
-* **Master of Journalism and Communication**, School of Journalism, Fudan University, 2016-2018
+* **Master of Arts in Journalism and Communication**, School of Journalism, Fudan University, 2016-2018
 
 
-* **Bachelor of Journalism**, School of Journalism, Fudan University, 2010-2014
+* **Bachelor of Arts in Journalism**, School of Journalism, Fudan University, 2010-2014
 
 
 Thesis
 ======
+
+* **PhD Thesis** ( 2026)
+  * Title: 
+
 * **Master Thesis** (June 2016)
   * Title: The Media Properties and Community Properties of "Logical Thinking"
 
 * **Bachelor Thesis** (July 2014)
   * Title: Research on the Use and Satisfaction of College Students' Mobile News App in China
-  * Award: Second Prize of People's Daily Online Excellent Paper Award
 
 Professional Experience
 ======
 * **Marketing Operation**, Shanghai Kaijie Education and Technology Co., Ltd., Shanghai, China (August 2017 - 2021)
 
 
-* **Marketing Manager**, China UnionPay Merchant Services Co., Ltd., Shanghai, China (July 2016 - July 2017)
+* **Marketing Manager**, China UnionPay Merchant Services Co., Ltd., Shanghai, China (September 2016 - July 2017)
   * Managed marketing strategies and campaigns
   
 Skills
