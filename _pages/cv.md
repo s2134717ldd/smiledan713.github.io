@@ -9,56 +9,58 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interest
+======
+* Social Media
+* Crisis Communication
+* Computational Communication
+* Digital Discourse and Media Dynamics
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. Candidate** in Media and Communication, Department of Media and Communication Studies, Faculty of Arts and Social Sciences, Universiti Malaya, 2021-2026 (expected)
 
-Work experience
+
+* **Master of Journalism and Communication**, School of Journalism, Fudan University, 2016-2018
+
+
+* **Bachelor of Journalism**, School of Journalism, Fudan University, 2010-2014
+
+
+Thesis
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Master Thesis** (June 2016)
+  * Title: The Media Properties and Community Properties of "Logical Thinking"
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Bachelor Thesis** (July 2014)
+  * Title: Research on the Use and Satisfaction of College Students' Mobile News App in China
+  * Award: Second Prize of People's Daily Online Excellent Paper Award
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Professional Experience
+======
+* **Marketing Operation**, Shanghai Kaijie Education and Technology Co., Ltd., Shanghai, China (August 2017 - 2021)
+
+
+* **Marketing Manager**, China UnionPay Merchant Services Co., Ltd., Shanghai, China (July 2016 - July 2017)
+  * Managed marketing strategies and campaigns
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Computer Skills**
+  * MS Word, Excel, PowerPoint
+  * Python
+  * Photoshop, Premiere
+
+* **Languages**
+  * Mandarin (Native)
+  * English (IELTS 6.5)
+
+* **Sports & Hobbies**
+  * Swimming, Running, Badminton
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
