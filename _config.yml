@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Dandan Liu (Ivy Liu)"
+title                    : "Dandan Liu 刘丹丹"
 title_separator          : "-"
 name                     : &name "Dandan Liu"
 description              : &description "PhD Candidate in Media and Communication at Universiti Malaya"   # Update this with a general description of your site, this is the default if not overridden by a page

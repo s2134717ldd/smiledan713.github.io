@@ -21,14 +21,30 @@ Current Research
 ======
 My doctoral research centers on digital discourse and media dynamics in the context of social media and crisis communication. I employ both qualitative and computational approaches to understand how information flows, how communities form and respond during crises, and how digital platforms mediate public discourse. I am particularly interested in leveraging computational methods to analyze patterns in digital communication and their implications for society.
 
-Recent Publications
+Selected Publications
 ======
-I have published in several prestigious international journals, including:
-- *Information, Communication and Society* - exploring digital identity and social media practices
-- *International Journal of STEM Education* - investigating AI-assisted learning and educational technology
-- *BMC Nursing* - examining communication in healthcare contexts
+My research has been published in top-tier international journals and conferences:
 
-My interdisciplinary work demonstrates the application of communication theories across diverse contexts, from rural social media creators to educational technology and healthcare communication.
+**Top-Tier Journal Publications (SCI 中科院Q1)**
+- **Liu, D.**, & Fan, G. (2025). Digital duality: negotiating tradition, modernity, and identity among rural housewife Douyin creators in China. *Information, Communication and Society*. **(SCI 中科院Q1 TOP)**
+
+- Fan, G., **Liu, D.**, Zhang, R., & Pan, L. (2025). The impact of AI-assisted pair programming on student motivation, programming anxiety, collaborative learning, and programming performance. *International Journal of STEM Education*, 12(1), 16. **(SCI 中科院Q1 Top)**
+
+**High-Quality Journal Publications**
+- Fan, G., **Liu, D.**, & Huang, Y. (2025). Skim or Swim? Investigating AI-Generated Summaries, Trust, and Comprehension in Chinese Mobile Reading. *International Journal of Human–Computer Interaction*. **(CCF B)**
+
+- He, Y., Fan, G., Fan, G., & **Liu, D.** (2025). Exploring nurse and patient perspectives on WeChat-based prenatal education in Chinese public hospitals: a qualitative inquiry. *BMC Nursing*, 24(1), 459. **(SCI 中科院Q2)**
+
+- Yang, F., **Liu, D.**, & Fan, G. (2025). Emotional labor and coping strategies of gynecological nurses in recurrent pregnancy loss care: a qualitative phenomenological study. *BMC Nursing*, 24.1, 1-11. **(SCI 中科院Q2)**
+
+**Conference Publications**
+- **Liu, D.**, et al. (2025). Co-Constructing Meaning with Large Language Models: A Longitudinal Analysis of Human-AI Dialogues in Emotional Support Contexts. *Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 47)*. **(CCF B)**
+
+- **Liu, D.**, et al. (2025). When Machines Speak with Feeling: Investigating Emotional Prosody, Authenticity, and Trust in AI vs. Human Voices. *Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 47)*. **(CCF B)**
+
+- Fan, G., **Liu, D.**, Pan, L., & Huang, Y. (2025). Mapping Override Behavior: Investigating Why and How Artists Reject AI Suggestions in Collaborative Creation. *2025 International Joint Conference on Neural Networks (IJCNN)*. IEEE. **(CCF C)**
+
+My interdisciplinary work demonstrates the application of communication theories and computational methods across diverse contexts, from social media and digital discourse to AI-human interaction and healthcare communication.
 
 Academic Background
 ======

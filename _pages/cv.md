@@ -45,7 +45,6 @@ Professional Experience
 
 
 * **Marketing Manager**, China UnionPay Merchant Services Co., Ltd., Shanghai, China (September 2016 - July 2017)
-  * Managed marketing strategies and campaigns
   
 Skills
 ======
