@@ -23,28 +23,33 @@ My doctoral research centers on digital discourse and media dynamics in the cont
 
 Selected Publications
 ======
-My research has been published in top-tier international journals and conferences:
+My research has been published in top-tier international journals and conferences. Selected highlights include:
 
-**Top-Tier Journal Publications (SCI 中科院Q1)**
+**First-Author Publications**
+- **Liu, Dandan**, Siti Ezaleila Binti Mustafa, and Nor Zaliza Binti Sarmiti. (2025). From zero-COVID to global alignment: transnational pressures and China's pandemic communication transformation. *Globalization and Health*. DOI: 10.1186/s12992-025-01155-y
+
+- **Liu, DanDan**. (2025). Beyond Top-Down Messaging: Frame Dynamics Across Government, Social Media, and Public Discourse in China's COVID-19 Crisis Communication. In *INTRAC 2025*.
+
 - **Liu, D.**, & Fan, G. (2025). Digital duality: negotiating tradition, modernity, and identity among rural housewife Douyin creators in China. *Information, Communication and Society*. **(SCI 中科院Q1 TOP)**
 
+**Top-Tier Conference Publications**
+- Fan, G., **Liu, D.**, Pan, L., & Huang, Y. (2025). Creative Momentum Transfer: How Timing and Labeling of AI Suggestions Shape Iterative Human Ideation. In *International Joint Conferences on Artificial Intelligence (IJCAI)*. **(CCF A)** 🏆
+
+- **Liu, D.**, et al. (2025). Co-Constructing Meaning with Large Language Models: A Longitudinal Analysis of Human-AI Dialogues in Emotional Support Contexts. *Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 47)*. **(CCF B)**
+
+- **Liu, D.**, et al. (2025). When Machines Speak with Feeling: Investigating Emotional Prosody, Authenticity, and Trust in AI vs. Human Voices. *Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 47)*. **(CCF B)**
+
+**Top-Tier Journal Publications (SCI 中科院Q1)**
 - Fan, G., **Liu, D.**, Zhang, R., & Pan, L. (2025). The impact of AI-assisted pair programming on student motivation, programming anxiety, collaborative learning, and programming performance. *International Journal of STEM Education*, 12(1), 16. **(SCI 中科院Q1 Top)**
 
-**High-Quality Journal Publications**
+**High-Quality Publications**
 - Fan, G., **Liu, D.**, & Huang, Y. (2025). Skim or Swim? Investigating AI-Generated Summaries, Trust, and Comprehension in Chinese Mobile Reading. *International Journal of Human–Computer Interaction*. **(CCF B)**
 
 - He, Y., Fan, G., Fan, G., & **Liu, D.** (2025). Exploring nurse and patient perspectives on WeChat-based prenatal education in Chinese public hospitals: a qualitative inquiry. *BMC Nursing*, 24(1), 459. **(SCI 中科院Q2)**
 
 - Yang, F., **Liu, D.**, & Fan, G. (2025). Emotional labor and coping strategies of gynecological nurses in recurrent pregnancy loss care: a qualitative phenomenological study. *BMC Nursing*, 24.1, 1-11. **(SCI 中科院Q2)**
 
-**Conference Publications**
-- **Liu, D.**, et al. (2025). Co-Constructing Meaning with Large Language Models: A Longitudinal Analysis of Human-AI Dialogues in Emotional Support Contexts. *Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 47)*. **(CCF B)**
-
-- **Liu, D.**, et al. (2025). When Machines Speak with Feeling: Investigating Emotional Prosody, Authenticity, and Trust in AI vs. Human Voices. *Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 47)*. **(CCF B)**
-
-- Fan, G., **Liu, D.**, Pan, L., & Huang, Y. (2025). Mapping Override Behavior: Investigating Why and How Artists Reject AI Suggestions in Collaborative Creation. *2025 International Joint Conference on Neural Networks (IJCNN)*. IEEE. **(CCF C)**
-
-My interdisciplinary work demonstrates the application of communication theories and computational methods across diverse contexts, from social media and digital discourse to AI-human interaction and healthcare communication.
+My interdisciplinary work demonstrates the application of communication theories and computational methods across diverse contexts, from crisis communication and social media discourse to AI-human interaction and healthcare communication. My research particularly focuses on understanding how digital platforms mediate public discourse during crises and how AI technologies shape human creativity and communication.
 
 Academic Background
 ======
