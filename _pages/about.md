@@ -30,9 +30,9 @@ My research has been published in top-tier international journals and conference
 
 - **Liu, D.**, Sabri, A.Q.M., Rahman, S.S.A., Pan, L., & Fan, G.* (2027). When AI Breaks Down: Continuity Work, Dependency, and Repair in AI-Mediated Collaboration. *ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2027)*. Accepted; forthcoming. **(CCF A)**
 
-- **Liu, D.**, Pan, L., Sabri, A.Q.M., & Fan, G. (2026). From Solo Post to Shared Space: How a Public LLM Agent Reshapes Human-to-Human Conversation Structure on a Social Platform. *ACM Transactions on Social Computing*. Accepted (forthcoming).
+- **Liu, D.**, Pan, L., Md Sabri, A.Q., & Fan, G. (2026). From Solo Post to Shared Space: How a Public LLM Agent Reshapes Human-to-Human Conversation Structure on a Social Platform. *ACM Transactions on Social Computing*. DOI: [10.1145/3844666](https://doi.org/10.1145/3844666).
 
-- **Liu, D.**, & Fan, G. (2026). Fairness Labels in Feeds: Process Disclosures, Provenance, and User Choice Among Short-Video Creators in Mainland China. *Social Media + Society*. Accepted (forthcoming). **(SSCI 中科院Q1 Top)**
+- **Liu, D.**, & Fan, G. (2026). “Fairness Labels” in Feeds: Process Disclosures, Provenance, and User Choice Among Short-Video Creators in Mainland China. *Social Media + Society*, 12(3), Article 20563051261475922. DOI: [10.1177/20563051261475922](https://doi.org/10.1177/20563051261475922). **(SSCI 中科院Q1 Top)**
 
 - **Liu, D.**, Fan, G., Guo, Q., Zhang, R., & Pan, L. (2026). Textless, Tiny, and Private: Hashed n-Grams with LLM-Teacher Distillation and Local Differential Privacy for Mental-Health Screening on Social Media. *IEEE Transactions on Computational Social Systems* (Early Access). DOI: [10.1109/TCSS.2026.3693692](https://doi.org/10.1109/TCSS.2026.3693692). **(CCF C)**
 
