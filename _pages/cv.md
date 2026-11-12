@@ -9,12 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Research Interest
+[Download CV (PDF)]({{ '/files/Dandan_Liu_CV.pdf' | relative_url }}) · [Download editable LaTeX source]({{ '/files/Dandan_Liu_CV.tex' | relative_url }})
+
+Updated 12 November 2026.
+
+**Dandan Liu (Ivy)**<br>
+PhD Candidate in Media and Communication, Universiti Malaya<br>
+Kuala Lumpur, Malaysia<br>
+[lddzmx@gmail.com](mailto:lddzmx@gmail.com) · [ORCID](https://orcid.org/0009-0002-4702-8070)
+
+Research Interests
 ======
 * Social Media
 * Crisis Communication
 * Computational Communication
 * Digital Discourse and Media Dynamics
+* Human–AI Interaction
+
+My doctoral research examines digital discourse in social media and crisis communication, using qualitative and computational approaches to study information flows, community responses, and public discourse.
 
 Education
 ======
@@ -22,22 +34,11 @@ Education
 
 
 * **Master of Arts in Journalism and Communication**, School of Journalism, Fudan University, 2016-2018
+  * Thesis: The Media Properties and Community Properties of "Logical Thinking"
 
 
 * **Bachelor of Arts in Journalism**, School of Journalism, Fudan University, 2010-2014
-
-
-Thesis
-======
-
-* **PhD Thesis** ( 2026)
-  * Title: 
-
-* **Master Thesis** (June 2016)
-  * Title: The Media Properties and Community Properties of "Logical Thinking"
-
-* **Bachelor Thesis** (July 2014)
-  * Title: Research on the Use and Satisfaction of College Students' Mobile News App in China
+  * Thesis: Research on the Use and Satisfaction of College Students' Mobile News App in China
 
 Professional Experience
 ======
@@ -45,7 +46,11 @@ Professional Experience
 
 
 * **Marketing Manager**, China UnionPay Merchant Services Co., Ltd., Shanghai, China (September 2016 - July 2017)
-  
+
+Honors
+======
+* **Second Prize, People's Daily Online Excellent Paper Award**, for the bachelor's thesis on college students' use of mobile news apps.
+
 Skills
 ======
 * **Computer Skills**
@@ -60,9 +65,25 @@ Skills
 * **Sports & Hobbies**
   * Swimming, Running, Badminton
 
-Publications
+First-Author Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ol>
+{% for post in site.publications reversed %}
+  {% assign author_prefix = post.citation | slice: 0, 4 %}
+  {% if author_prefix == 'Liu,' %}
+    <li><p>{{ post.citation }} <a href="{{ post.url | relative_url }}">Details</a></p></li>
+  {% endif %}
+{% endfor %}
+</ol>
+
+Co-Authored Publications
+======
+<ol>
+{% for post in site.publications reversed %}
+  {% assign author_prefix = post.citation | slice: 0, 4 %}
+  {% unless author_prefix == 'Liu,' %}
+    <li><p>{{ post.citation }} <a href="{{ post.url | relative_url }}">Details</a></p></li>
+  {% endunless %}
+{% endfor %}
+</ol>
 
