@@ -11,6 +11,8 @@ redirect_from:
 
 [Download CV (PDF)]({{ '/files/Dandan_Liu_CV.pdf' | relative_url }}) · [Download editable LaTeX source]({{ '/files/Dandan_Liu_CV.tex' | relative_url }})
 
+中文简历：[下载 PDF]({{ '/files/Dandan_Liu_CV_Chinese.pdf' | relative_url }}) · [下载 LaTeX 源文件]({{ '/files/cv-zh/main.tex' | relative_url }})
+
 Updated 12 November 2026.
 
 **Dandan Liu (Ivy)**<br>
