@@ -26,7 +26,23 @@ Selected Publications
 My research has been published in top-tier international journals and conferences. Selected highlights include:
 
 **First-Author Publications**
-- **Liu, Dandan**, Siti Ezaleila Binti Mustafa, and Nor Zaliza Binti Sarmiti. (2025). From zero-COVID to global alignment: transnational pressures and China's pandemic communication transformation. *Globalization and Health*. DOI: 10.1186/s12992-025-01155-y
+- **Liu, D.**, & Fan, G.* (2027). When the Score Speaks First: Negotiating the Authority of Wearable Wellness Scores in Everyday Life. *ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp/ISWC 2027)*. Accepted; forthcoming. **(CCF A)**
+
+- **Liu, D.**, Sabri, A.Q.M., Rahman, S.S.A., Pan, L., & Fan, G.* (2027). When AI Breaks Down: Continuity Work, Dependency, and Repair in AI-Mediated Collaboration. *ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2027)*. Accepted; forthcoming. **(CCF A)**
+
+- **Liu, D.**, Pan, L., Sabri, A.Q.M., & Fan, G. (2026). From Solo Post to Shared Space: How a Public LLM Agent Reshapes Human-to-Human Conversation Structure on a Social Platform. *ACM Transactions on Social Computing*. Accepted (forthcoming).
+
+- **Liu, D.**, & Fan, G. (2026). Fairness Labels in Feeds: Process Disclosures, Provenance, and User Choice Among Short-Video Creators in Mainland China. *Social Media + Society*. Accepted (forthcoming). **(SSCI 中科院Q1 Top)**
+
+- **Liu, D.**, Fan, G., Guo, Q., Zhang, R., & Pan, L. (2026). Textless, Tiny, and Private: Hashed n-Grams with LLM-Teacher Distillation and Local Differential Privacy for Mental-Health Screening on Social Media. *IEEE Transactions on Computational Social Systems* (Early Access). DOI: [10.1109/TCSS.2026.3693692](https://doi.org/10.1109/TCSS.2026.3693692). **(CCF C)**
+
+- **Liu, D.**, Fan, G., & Pan, L. (2026). Tool, tutor, or crutch?: A grounded theory of cognitive scaffolding and offloading in AI-assisted programming education. *International Journal of STEM Education*, 13, 10. DOI: [10.1186/s40594-025-00592-w](https://doi.org/10.1186/s40594-025-00592-w). **(SCI 中科院Q1 Top)**
+
+- **Liu, D.**, et al. (2025). Co-Constructing Meaning with Large Language Models: A Longitudinal Analysis of Human-AI Dialogues in Emotional Support Contexts. *Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 47)*. **(CCF B)**
+
+- **Liu, D.**, et al. (2025). When Machines Speak with Feeling: Investigating Emotional Prosody, Authenticity, and Trust in AI vs. Human Voices. *Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 47)*. **(CCF B)**
+
+- **Liu, Dandan**, Siti Ezaleila Binti Mustafa, and Nor Zaliza Binti Sarmiti. (2025). From zero-COVID to global alignment: transnational pressures and China's pandemic communication transformation. *Globalization and Health*. DOI: [10.1186/s12992-025-01155-y](https://doi.org/10.1186/s12992-025-01155-y).
 
 - **Liu, DanDan**. (2025). Beyond Top-Down Messaging: Frame Dynamics Across Government, Social Media, and Public Discourse in China's COVID-19 Crisis Communication. In *INTRAC 2025*.
 
@@ -34,10 +50,6 @@ My research has been published in top-tier international journals and conference
 
 **Top-Tier Conference Publications**
 - Fan, G., **Liu, D.**, Pan, L., & Huang, Y. (2025). Creative Momentum Transfer: How Timing and Labeling of AI Suggestions Shape Iterative Human Ideation. In *International Joint Conferences on Artificial Intelligence (IJCAI)*. **(CCF A)** 🏆
-
-- **Liu, D.**, et al. (2025). Co-Constructing Meaning with Large Language Models: A Longitudinal Analysis of Human-AI Dialogues in Emotional Support Contexts. *Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 47)*. **(CCF B)**
-
-- **Liu, D.**, et al. (2025). When Machines Speak with Feeling: Investigating Emotional Prosody, Authenticity, and Trust in AI vs. Human Voices. *Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 47)*. **(CCF B)**
 
 **Top-Tier Journal Publications (SCI 中科院Q1)**
 - Fan, G., **Liu, D.**, Zhang, R., & Pan, L. (2025). The impact of AI-assisted pair programming on student motivation, programming anxiety, collaborative learning, and programming performance. *International Journal of STEM Education*, 12(1), 16. **(SCI 中科院Q1 Top)**
