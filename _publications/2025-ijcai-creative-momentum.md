@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2025-ijcai-creative-momentum
 excerpt: 'Investigating how the timing and labeling of AI prompts shape multi-round human ideation in a between-subjects experiment with 247 participants.'
-date: 2025-08-01
+date: 2025-08-10
 venue: 'International Joint Conferences on Artificial Intelligence (IJCAI)'
 #slidesurl: 'http://academicpages.github.io/files/slides13.pdf'
 #paperurl: 'https://doi.org/'
