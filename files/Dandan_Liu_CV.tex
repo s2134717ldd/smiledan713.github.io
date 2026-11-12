@@ -1,78 +1,130 @@
-% Dandan Liu - Academic CV
-% Adapted from moderncv's official template.tex, classic style.
-% https://github.com/moderncv/moderncv/blob/master/template.tex
-% Template copyright 2006-2015 Xavier Danaux; 2020-2026 moderncv maintainers.
-% Template distributed under the LaTeX Project Public License 1.3c or later.
-% https://www.latex-project.org/lppl/
+% Dandan Liu - Research-focused Academic CV
+% Adapted from Pascal Michaillat's minimalist academic CV template.
+% https://github.com/pmichaillat/latex-cv
+% https://pascalmichaillat.org/f/
 % Compile twice with: xelatex Dandan_Liu_CV.tex
-% Self-contained source: no external bibliography, images, or custom fonts required.
+% Self-contained source; requires standard TeX Gyre Pagella and Latin Modern fonts.
 % Content snapshot: 12 November 2026, from the website's about/CV/publication records.
 % Publication author order and abbreviated author lists are retained from those records.
 % Omitted: blank PhD thesis title; inconsistent master's thesis date (title retained).
-\documentclass[11pt,a4paper,sans]{moderncv}
-\moderncvcolor{blue}
-\definecolor{color1}{HTML}{234E70}
-\moderncvstyle[nosymbols]{classic}
-\colorlet{firstnamecolor}{color1}
-\colorlet{lastnamecolor}{black!85}
-\colorlet{addresscolor}{black!75}
-\usepackage[margin=1.8cm,top=1.6cm,bottom=1.8cm]{geometry}
-\usepackage{fontspec}
-\usepackage{needspace}
-\setmainfont{lmroman10-regular.otf}[BoldFont=lmroman10-bold.otf,ItalicFont=lmroman10-italic.otf,BoldItalicFont=lmroman10-bolditalic.otf]
+% Template license follows.
+% MIT License
+%
+% Copyright (c) 2025–present Pascal Michaillat
+%
+% Permission is hereby granted, free of charge, to any person obtaining a copy
+% of this software and associated documentation files (the "Software"), to deal
+% in the Software without restriction, including without limitation the rights
+% to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+% copies of the Software, and to permit persons to whom the Software is
+% furnished to do so, subject to the following conditions:
+%
+% The above copyright notice and this permission notice shall be included in all
+% copies or substantial portions of the Software.
+%
+% THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+% IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+% FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+% AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+% LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+% OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+% SOFTWARE.
+%
+
+\documentclass[a4paper,11pt]{article}
+\usepackage[margin=1.9cm,top=1.65cm,bottom=1.85cm,headheight=14pt,headsep=12pt,footskip=24pt]{geometry}
+\usepackage{fontspec,microtype,xcolor,fancyhdr,titlesec,needspace}
+\usepackage[hidelinks,pdfdisplaydoctitle=true]{hyperref}
+\setmainfont{texgyrepagella-regular.otf}[BoldFont=texgyrepagella-bold.otf,ItalicFont=texgyrepagella-italic.otf,BoldItalicFont=texgyrepagella-bolditalic.otf]
 \setsansfont{lmsans10-regular.otf}[BoldFont=lmsans10-bold.otf,ItalicFont=lmsans10-oblique.otf,BoldItalicFont=lmsans10-boldoblique.otf]
-\setmonofont{lmmono10-regular.otf}
-\setlength{\hintscolumnwidth}{2.7cm}
-\setlength{\makecvheadnamewidth}{9.0cm}
-\renewcommand*{\namefont}{\fontsize{30}{34}\mdseries\upshape}
-\renewcommand*{\titlefont}{\large\mdseries\upshape}
-\AtBeginDocument{\hypersetup{pdftitle={Dandan Liu - Academic CV},pdfauthor={Dandan Liu},
-  urlcolor=color1,linkcolor=color1}}
-\name{Dandan}{Liu}
-\title{Curriculum Vitae}
-\address{Kuala Lumpur, Malaysia}{}{}
-\email{lddzmx@gmail.com}
-\extrainfo{\href{https://s2134717ldd.github.io/smiledan713.github.io/}{Academic website}\\
-  \href{https://orcid.org/0009-0002-4702-8070}{ORCID: 0009-0002-4702-8070}}
+\definecolor{navy}{HTML}{173E52}
+\definecolor{teal}{HTML}{367B88}
+\definecolor{ink}{HTML}{242D32}
+\definecolor{muted}{HTML}{54636C}
+\color{ink}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{5pt}
+\linespread{1.06}
+\AtBeginDocument{\frenchspacing}
+\hypersetup{pdftitle={Dandan Liu - Academic Curriculum Vitae},pdfauthor={Dandan Liu},
+  pdfsubject={Research interests, education, and publications}}
+\titleformat*{\subsection}{\large\scshape\color{navy}}
+\titlespacing*{\subsection}{0pt}{4pt}{5pt}
+\newcommand{\sep}{{\,\textperiodcentered\,\,}}
+\newcommand{\hsep}{\noindent\textcolor{teal}{\rule{\textwidth}{0.5pt}}}
+\newcommand{\block}[1]{\par\addvspace{7pt}\Needspace{5\baselineskip}\hsep\vspace{-8pt}\subsection*{#1}}
+\newcommand{\cvfoot}[2]{\fancyfoot[#1]{\footnotesize\textcolor{muted}{#2}}}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyhead[L]{\footnotesize\scshape\textcolor{muted}{Dandan Liu}}
+\fancyhead[R]{\footnotesize\scshape\textcolor{muted}{Research \& Publications}}
+\cvfoot{L}{\href{mailto:todandan@foxmail.com}{todandan@foxmail.com}}
+\cvfoot{C}{12 November 2026}
+\cvfoot{R}{\thepage\,/\,\pageref*{LastPage}}
+\fancypagestyle{opening}{\fancyhead{}}
 \newcommand{\publication}[2]{%
-  \par\addvspace{10pt}\noindent
+  \par\addvspace{8pt}\noindent
   \begin{minipage}{\linewidth}
-    \fontsize{11}{14.2}\selectfont\raggedright
-    \hangindent=2em\hangafter=1
-    \makebox[2em][l]{\textcolor{color1}{[#1]}}#2
+    \fontsize{10.8}{13.4}\selectfont\raggedright
+    \hangindent=2.4em\hangafter=1
+    \makebox[2.4em][l]{\textcolor{teal}{[#1]}}#2
   \end{minipage}\par}
 \begin{document}
-\makecvtitle
-\fancyfoot[l]{\small\textcolor{black!60}{Dandan Liu | Curriculum Vitae}}
-\vspace{-7mm}
-\cvitem{}{PhD Candidate in Media and Communication\newline
-Department of Media and Communication Studies\newline
-Faculty of Arts and Social Sciences, Universiti Malaya}
-\section{Research Interests}
-\cvitem{}{Social media; crisis communication; computational communication; digital discourse and media dynamics; human--AI interaction.}
-\cvitem{Current focus}{Digital discourse in social media and crisis communication, using qualitative and computational approaches to study information flows, community responses, and public discourse.}
+\thispagestyle{opening}
+{\sffamily\small\color{muted} ACADEMIC CURRICULUM VITAE}\par
+\vspace{1mm}
+{\fontsize{32}{36}\selectfont\color{navy}\textbf{Dandan Liu}}\par
+{\large PhD Candidate in Media and Communication}\par
+{\small Department of Media and Communication Studies, Faculty of Arts and Social Sciences\\
+Universiti Malaya \sep Kuala Lumpur, Malaysia}\par
+{\small\href{mailto:todandan@foxmail.com}{todandan@foxmail.com} \sep
+\href{https://s2134717ldd.github.io/smiledan713.github.io/}{Academic website} \sep
+\href{https://orcid.org/0009-0002-4702-8070}{ORCID: 0009-0002-4702-8070}}\par
 
-\section{Education}
-\cventry{2021--2026}{PhD Candidate, Media and Communication}{Universiti Malaya}{Malaysia}{}{Expected completion: 2026. Department of Media and Communication Studies, Faculty of Arts and Social Sciences.}
-\cventry{2016--2018}{MA, Journalism and Communication}{Fudan University}{China}{}{School of Journalism. Thesis: \emph{The Media Properties and Community Properties of \textquotedbl{}Logical Thinking\textquotedbl{}.}}
-\cventry{2010--2014}{BA, Journalism}{Fudan University}{China}{}{School of Journalism. Thesis: \emph{Research on the Use and Satisfaction of College Students' Mobile News App in China}.}
+\vspace{3mm}
+\begingroup
+\setlength{\fboxsep}{12pt}
+\noindent\colorbox{navy}{%
+\begin{minipage}{\dimexpr\linewidth-2\fboxsep\relax}
+\color{white}
+{\sffamily\fontsize{9}{11}\selectfont RESEARCH INTERESTS}\par\vspace{3pt}
+{\fontsize{13}{17}\selectfont
+Computational Communication \sep Social Media\\
+Crisis Communication \sep Human--AI Interaction\\
+Digital Discourse and Media Dynamics}
+\end{minipage}}
+\endgroup
 
-\section{Professional Experience}
-\cventry{Aug 2017--2021}{Marketing Operation}{Shanghai Kaijie Education and Technology Co., Ltd.}{Shanghai, China}{}{}
-\cventry{\parbox[t]{\hintscolumnwidth}{\raggedleft Sep 2016--\\Jul 2017}}{Marketing Manager}{China UnionPay Merchant Services Co., Ltd.}{Shanghai, China}{}{}
+\block{Research Profile}
+I study how digital platforms shape public discourse and human interaction. Combining qualitative and computational approaches, my research examines social media, crisis communication, and everyday encounters with AI.
 
-\section{Honors}
-\cvitem{}{Second Prize, People's Daily Online Excellent Paper Award, for the bachelor's thesis on college students' use of mobile news apps.}
+\block{Research Themes}
+\textbf{Digital discourse and crisis communication.} Pandemic communication, transnational influences, and the relationships between government messaging, social media, and public discourse.
 
-\section{Skills and Languages}
-\cvitem{Software}{Python; Microsoft Word, Excel, PowerPoint; Photoshop; Premiere.}
-\cvitem{Languages}{Mandarin (native); English (IELTS 6.5).}
-\cvitem{Interests}{Swimming; running; badminton.}
-\vfill
-\cvitem{}{\small Updated 12 November 2026.}
+\textbf{Human--AI communication.} Public LLM agents, emotional support and authenticity, and the changing structure of human-to-human interaction on social platforms.
+
+\textbf{Platform governance and trust.} Fairness disclosures, content provenance, user choice, and the authority of AI-generated summaries and wearable wellness scores.
+
+\block{Education}
+\textbf{PhD Candidate, Media and Communication}\hfill 2021--2026 (expected)\\
+Universiti Malaya, Faculty of Arts and Social Sciences.
+
+\textbf{MA, Journalism and Communication}\hfill 2016--2018\\
+Fudan University, School of Journalism.\\
+{\small Thesis: \emph{The Media Properties and Community Properties of \textquotedbl{}Logical Thinking\textquotedbl{}.}}
+
+\textbf{BA, Journalism}\hfill 2010--2014\\
+Fudan University, School of Journalism.\\
+{\small Thesis: \emph{Research on the Use and Satisfaction of College Students' Mobile News App in China}.}
+
+\block{Research Skills and Academic Recognition}
+\textbf{Approaches and tools:} Qualitative inquiry; computational communication; Python.\\
+\textbf{Languages:} Mandarin (native); English (IELTS 6.5).\\
+\textbf{Honor:} Second Prize, People's Daily Online Excellent Paper Award (bachelor's thesis).
 
 \clearpage
-\section{First-Author Publications}
+\block{First-Author Publications}
 % Source record: _publications/2026-09-18-ubicomp-wearable-wellness-scores.md
 \publication{1}{\textbf{Liu, D.}, \& Fan, G. (2027). When the Score Speaks First: Negotiating the Authority of Wearable Wellness Scores in Everyday Life. \emph{ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp/ISWC 2027)}. Accepted; forthcoming.}
 
@@ -107,7 +159,7 @@ Faculty of Arts and Social Sciences, Universiti Malaya}
 \publication{11}{\textbf{Liu, D.}, \& Fan, G. (2025). Digital duality: negotiating tradition, modernity, and identity among rural housewife Douyin creators in China. \emph{Information, Communication and Society}. \href{https://doi.org/10.1080/1369118x.2025.2496903}{doi:10.1080/1369118x.2025.2496903}.}
 
 \clearpage
-\section{Co-Authored Publications: 2026}
+\block{Co-Authored Publications: 2026}
 % Source record: _publications/2026-08-20-fairsynth.md
 \publication{1}{Fan, G., \textbf{Liu, D.}, Guo, Q., Niu, X., \& Pan, L. (2026). FairSynth: Instrument-Relative Evaluation and Calibration of LLM Survey Simulations for Measurement Fairness. In \emph{Findings of the Association for Computational Linguistics: EMNLP 2026}. Accepted.}
 
@@ -142,7 +194,7 @@ Faculty of Arts and Social Sciences, Universiti Malaya}
 \publication{11}{Fan, G., \textbf{Liu, D.}, \& Pan, L. (2026). Mind the Gap: Predicting, Explaining and Reducing Time-to-First-Comment (Reply Gap) in Online Mental-Health Communities. In \emph{Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI 2026)}.}
 
 \clearpage
-\section{Co-Authored Publications: 2025}
+\block{Co-Authored Publications: 2025}
 % Source record: _publications/2025-ijcai-creative-momentum.md
 \publication{12}{Fan, G., \textbf{Liu, D.}, Pan, L., \& Huang, Y. (2025). Creative Momentum Transfer: How Timing and Labeling of AI Suggestions Shape Iterative Human Ideation. In \emph{International Joint Conferences on Artificial Intelligence (IJCAI)}.}
 
@@ -164,5 +216,6 @@ Faculty of Arts and Social Sciences, Universiti Malaya}
 % Source record: _publications/2025-wechat-prenatal-education.md
 \publication{18}{He, Y., Fan, G., Fan, G., \& \textbf{Liu, D.} (2025). Exploring nurse and patient perspectives on WeChat-based prenatal education in Chinese public hospitals: a qualitative inquiry. \emph{BMC Nursing}, 24(1), 459.}
 
+\label{LastPage}
 \end{document}
 

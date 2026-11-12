@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Academic CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,17 +16,19 @@ Updated 12 November 2026.
 **Dandan Liu (Ivy)**<br>
 PhD Candidate in Media and Communication, Universiti Malaya<br>
 Kuala Lumpur, Malaysia<br>
-[lddzmx@gmail.com](mailto:lddzmx@gmail.com) · [ORCID](https://orcid.org/0009-0002-4702-8070)
+[todandan@foxmail.com](mailto:todandan@foxmail.com) · [ORCID](https://orcid.org/0009-0002-4702-8070)
 
-Research Interests
+{% include research-interests-banner.html %}
+
+Research Profile
 ======
-* Social Media
-* Crisis Communication
-* Computational Communication
-* Digital Discourse and Media Dynamics
-* Human–AI Interaction
+I study how digital platforms shape public discourse and human interaction. Combining qualitative and computational approaches, my research examines social media, crisis communication, and everyday encounters with AI.
 
-My doctoral research examines digital discourse in social media and crisis communication, using qualitative and computational approaches to study information flows, community responses, and public discourse.
+Research Themes
+======
+* **Digital discourse and crisis communication.** Pandemic communication, transnational influences, and the relationships between government messaging, social media, and public discourse.
+* **Human–AI communication.** Public LLM agents, emotional support and authenticity, and the changing structure of human-to-human interaction on social platforms.
+* **Platform governance and trust.** Fairness disclosures, content provenance, user choice, and the authority of AI-generated summaries and wearable wellness scores.
 
 Education
 ======
@@ -40,30 +42,14 @@ Education
 * **Bachelor of Arts in Journalism**, School of Journalism, Fudan University, 2010-2014
   * Thesis: Research on the Use and Satisfaction of College Students' Mobile News App in China
 
-Professional Experience
-======
-* **Marketing Operation**, Shanghai Kaijie Education and Technology Co., Ltd., Shanghai, China (August 2017 - 2021)
-
-
-* **Marketing Manager**, China UnionPay Merchant Services Co., Ltd., Shanghai, China (September 2016 - July 2017)
-
 Honors
 ======
 * **Second Prize, People's Daily Online Excellent Paper Award**, for the bachelor's thesis on college students' use of mobile news apps.
 
-Skills
+Research Skills and Languages
 ======
-* **Computer Skills**
-  * MS Word, Excel, PowerPoint
-  * Python
-  * Photoshop, Premiere
-
-* **Languages**
-  * Mandarin (Native)
-  * English (IELTS 6.5)
-
-* **Sports & Hobbies**
-  * Swimming, Running, Badminton
+* **Approaches and tools:** Qualitative inquiry; computational communication; Python.
+* **Languages:** Mandarin (native); English (IELTS 6.5).
 
 First-Author Publications
 ======
