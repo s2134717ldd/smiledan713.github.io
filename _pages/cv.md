@@ -32,7 +32,8 @@ Research Themes
 
 Education
 ======
-* **Ph.D. Candidate** in Media and Communication, Department of Media and Communication Studies, Faculty of Arts and Social Sciences, Universiti Malaya, 2021-2026 (expected)
+* **Ph.D. Candidate** in Media and Communication, Department of Media and Communication Studies, Faculty of Arts and Social Sciences, Universiti Malaya, 2021–May 2027 (expected)
+  * Thesis: SEMANTIC GOVERNANCE AND CRISIS FRAMING IN CHINA’S COVID-19 PRESS CONFERENCES 2020–2023
 
 
 * **Master of Arts in Journalism and Communication**, School of Journalism, Fudan University, 2016-2018
