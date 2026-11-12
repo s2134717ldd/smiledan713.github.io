@@ -1,13 +1,13 @@
 ---
-title: "Conformal@K: Distribution-Free Top-K Miss-Risk Control for Recommendation with Overlapping-Group and Two-Stage Guarantees (Accepted; CCF A)"
+title: "Conformal@K: Distribution-Free Top-K Miss-Risk Control for Recommendation with Overlapping-Group and Two-Stage Guarantees (CCF A)"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-tois-conformal-k
 excerpt: 'Distribution-free top-k miss-risk control for recommendation with overlapping-group and two-stage guarantees.'
-date: 2026-06-22
+date: 2026-07-01
 venue: 'ACM Transactions on Information Systems'
-status: 'Accepted'
-citation: 'Fan, G., Liu, D., & Pan, L. (2026). Conformal@K: Distribution-Free Top-K Miss-Risk Control for Recommendation with Overlapping-Group and Two-Stage Guarantees. <i>ACM Transactions on Information Systems</i>. Accepted (forthcoming).'
+paperurl: 'https://doi.org/10.1145/3828550'
+citation: 'Guangrui Fan, DanDan Liu, and Lihu Pan. 2026. Conformal@K: Distribution-Free Top-K Miss-Risk Control for Recommendation with Overlapping-Group and Two-Stage Guarantees. <i>ACM Transactions on Information Systems</i> 44, 6, Article 138 (July 2026), 42 pages. https://doi.org/10.1145/3828550'
 ---
 
-Accepted at *ACM Transactions on Information Systems* (TOIS; CCF A). This work develops distribution-free top-k miss-risk control for recommendation.
+Published in *ACM Transactions on Information Systems*, volume 44, issue 6, Article 138 (July 2026). This work develops distribution-free top-k miss-risk control for recommendation with overlapping-group and two-stage guarantees.
