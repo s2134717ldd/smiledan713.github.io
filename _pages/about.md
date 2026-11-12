@@ -36,7 +36,7 @@ My research has been published in top-tier international journals and conference
 
 - **Liu, D.**, et al. (2025). When Machines Speak with Feeling: Investigating Emotional Prosody, Authenticity, and Trust in AI vs. Human Voices. *Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 47)*. **(CCF B)**
 
-- **Liu, Dandan**, Siti Ezaleila Binti Mustafa, and Nor Zaliza Binti Sarmiti. (2025). From zero-COVID to global alignment: transnational pressures and China's pandemic communication transformation. *Globalization and Health*. DOI: [10.1186/s12992-025-01155-y](https://doi.org/10.1186/s12992-025-01155-y).
+- **Liu, Dandan**, Siti Ezaleila Binti Mustafa, and Nor Zaliza Binti Sarmiti. (2025). From zero-COVID to global alignment: transnational pressures and China's pandemic communication transformation. *Globalization and Health*. DOI: [10.1186/s12992-025-01155-y](https://doi.org/10.1186/s12992-025-01155-y). **(SCI 中科院 Q2 TOP)**
 
 - **Liu, DanDan**. (2025). Beyond Top-Down Messaging: Frame Dynamics Across Government, Social Media, and Public Discourse in China's COVID-19 Crisis Communication. In *INTRAC 2025*.
 
@@ -50,15 +50,9 @@ My research has been published in top-tier international journals and conference
 
 **High-Quality Publications**
 
-- Guangrui Fan, **DanDan Liu**, and Lihu Pan. (2026). Conformal@K: Distribution-Free Top-K Miss-Risk Control for Recommendation with Overlapping-Group and Two-Stage Guarantees. *ACM Transactions on Information Systems*, 44(6), Article 138 (July 2026), 42 pages. DOI: [10.1145/3828550](https://doi.org/10.1145/3828550). **(CCF A)**
+- **Liu, D.**, & Fan, G. (2026). “Fairness Labels” in Feeds: Process Disclosures, Provenance, and User Choice Among Short-Video Creators in Mainland China. *Social Media + Society*, 12(3), Article 20563051261475922. DOI: [10.1177/20563051261475922](https://doi.org/10.1177/20563051261475922). **(SSCI 中科院Q1 Top)**
 
-- Fan, G., **Liu, D.**, & Huang, Y. (2025). Skim or Swim? Investigating AI-Generated Summaries, Trust, and Comprehension in Chinese Mobile Reading. *International Journal of Human–Computer Interaction*, 1–22. DOI: [10.1080/10447318.2025.2574513](https://doi.org/10.1080/10447318.2025.2574513). **(CCF B)**
-
-- He, Y., Fan, G., Fan, G., & **Liu, D.** (2025). Exploring nurse and patient perspectives on WeChat-based prenatal education in Chinese public hospitals: a qualitative inquiry. *BMC Nursing*, 24(1), 459. DOI: [10.1186/s12912-025-03108-7](https://doi.org/10.1186/s12912-025-03108-7). **(SCI 中科院Q2)**
-
-- Yang, F., **Liu, D.**, & Fan, G. (2025). Emotional labor and coping strategies of gynecological nurses in recurrent pregnancy loss care: a qualitative phenomenological study. *BMC Nursing*, 24(1), 1–11. DOI: [10.1186/s12912-025-02884-6](https://doi.org/10.1186/s12912-025-02884-6). **(SCI 中科院Q2)**
-
-- Deng, W., **Liu, D.**, & Fan, G. (2025). The impact of power posing on presentation performance and self-efficacy in higher education: An embodied cognition approach. *Innovations in Education and Teaching International*. DOI: [10.1080/14703297.2025.2452393](https://doi.org/10.1080/14703297.2025.2452393). **(SCI 中科院Q4)**
+- **Liu, D.**, & Fan, G. (2025). Digital duality: negotiating tradition, modernity, and identity among rural housewife Douyin creators in China. *Information, Communication and Society*. **(SCI 中科院Q1 TOP)**
 
 My interdisciplinary work demonstrates the application of communication theories and computational methods across diverse contexts, from crisis communication and social media discourse to AI-human interaction and healthcare communication. My research particularly focuses on understanding how digital platforms mediate public discourse during crises and how AI technologies shape human creativity and communication.
 
