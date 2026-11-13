@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-**中文主版：**[下载 PDF]({{ '/files/Dandan_Liu_CV_Chinese.pdf' | relative_url }}) · [LaTeX 源文件]({{ '/files/cv-zh/main.tex' | relative_url }})<br>
-**English version:** [PDF]({{ '/files/Dandan_Liu_CV.pdf' | relative_url }}) · [LaTeX source]({{ '/files/Dandan_Liu_CV.tex' | relative_url }})
+**中文主版：**[下载 PDF]({{ '/files/Dandan_Liu_CV_Chinese.pdf' | relative_url }})<br>
+**English version:** [PDF]({{ '/files/Dandan_Liu_CV.pdf' | relative_url }})
 
 Updated 13 November 2026.
 
@@ -38,11 +38,9 @@ My research examines public discourse, human–AI communication, and trust on di
 Selected Research and Contributions
 ======
 
-The following four first-author studies were led by Dandan Liu. Detailed roles follow published contribution statements where available; identifiers link to the complete citations below.
-
 * **From Solo Post to Shared Space [J1](#J1)** — *ACM Transactions on Social Computing* (2026). Led research on how a public LLM agent reshapes human-to-human conversation, using reply-network analysis, matching, and doubly robust estimation.
-* **“Fairness Labels” in Feeds [J2](#J2)** — *Social Media + Society* (2026). Led an online randomized experiment on creators’ fairness and legitimacy judgments. Published contributions include study design, software, investigation, data curation, formal analysis, visualization, and manuscript drafting and revision.
-* **From zero-COVID to global alignment [J5](#J5)** — *Globalization and Health* (2025), Brief Report. Led research examining 154 press-conference transcripts using topic modeling, frame analysis, and process tracing. The publication records equal contributions by all three authors to conception, design, analysis, and writing.
+* **“Fairness Labels” in Feeds [J2](#J2)** — *Social Media + Society* (2026). Led an online randomized experiment on creators’ fairness and legitimacy judgments. Responsibilities included study design, software, investigation, data curation, formal analysis, visualization, and manuscript drafting and revision.
+* **From zero-COVID to global alignment [J5](#J5)** — *Globalization and Health* (2025), Brief Report. Led research examining 154 press-conference transcripts using topic modeling, frame analysis, and process tracing.
 * **Digital duality [J6](#J6)** — *Information, Communication & Society* (2025). Led an interview-based study of how rural housewife Douyin creators negotiate tradition, modernity, and identity.
 
 Courses Prepared to Teach
@@ -50,17 +48,13 @@ Courses Prepared to Teach
 
 Computational Communication · Communication Research Methods · Human–AI Communication.
 
-These are prospective teaching areas, not previously taught courses.
-
-Methods in Published Research
+Research Methods
 ======
 
-Experimental design, data curation, software implementation, and statistical analysis [J2](#J2); qualitative study design, interview-based investigation, and multi-source data collection [J4](#J4); collaborative mixed-methods analysis of crisis discourse [J5](#J5). These describe research contributions, not project leadership or teaching appointments.
+Experimental design, data curation, software implementation, and statistical analysis [J2](#J2); qualitative study design, interview-based investigation, and multi-source data collection [J4](#J4); collaborative mixed-methods analysis of crisis discourse [J5](#J5).
 
 Published and Online-First Journal Articles
 ======
-
-First authorship applies to J1–J6. Bold names identify Dandan Liu. Journal articles, accepted work, proceedings papers, and other conference records are listed separately.
 
 {% for item in site.data.cv_publications %}
 {% if item.category == 'journal' %}
@@ -71,8 +65,6 @@ First authorship applies to J1–J6. Bold names identify Dandan Liu. Journal art
 Accepted / Forthcoming
 ======
 
-Acceptance status follows existing author records. Final publication venue and paper/abstract type for A1–A2 require the acceptance notices or formal publication records.
-
 {% for item in site.data.cv_publications %}
 {% if item.category == 'accepted' %}
 <p id="{{ item.id }}"><strong>[{{ item.id }}]</strong> {{ item.citation }}</p>
@@ -82,22 +74,8 @@ Acceptance status follows existing author records. Final publication venue and p
 Peer-Reviewed Conference Proceedings
 ======
 
-C1–C2 are full proceedings papers checked against the publisher-hosted PDFs; Dandan Liu is the second author.
-
 {% for item in site.data.cv_publications %}
 {% if item.category == 'conference' %}
 <p id="{{ item.id }}"><strong>[{{ item.id }}]</strong> {{ item.citation }}</p>
 {% endif %}
 {% endfor %}
-
-Other Conference Records
-======
-
-These entries are retained from the previous CV. Formal publication details and full-paper, abstract, or presentation type remain to be verified; they are excluded from the verified journal/proceedings counts.
-
-{% for item in site.data.cv_publications %}
-{% if item.category == 'record' %}
-<p id="{{ item.id }}"><strong>[{{ item.id }}]</strong> {{ item.citation }}</p>
-{% endif %}
-{% endfor %}
-

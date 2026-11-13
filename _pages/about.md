@@ -29,6 +29,8 @@ My research has been published in top-tier international journals and conference
 
 - **Liu, D.**, Fan, G., & Pan, L. (2026). Tool, tutor, or crutch?: A grounded theory of cognitive scaffolding and offloading in AI-assisted programming education. *International Journal of STEM Education*, 13, 10. DOI: [10.1186/s40594-025-00592-w](https://doi.org/10.1186/s40594-025-00592-w). **(SCI 中科院Q1 Top)**
 
+- **Liu, D.**, & Fan, G. (2026). [Governing modesty: Platformed urban gaze and rural Chinese housewives on Douyin]({{ '/publication/2026-governing-modesty' | relative_url }}). *Journal of Rural Studies*, 121, Article 103937. DOI: [10.1016/j.jrurstud.2025.103937](https://doi.org/10.1016/j.jrurstud.2025.103937).
+
 - **Liu, Dandan**, Siti Ezaleila Binti Mustafa, and Nor Zaliza Binti Sarmiti. (2025). From zero-COVID to global alignment: transnational pressures and China's pandemic communication transformation. *Globalization and Health*, 21(1), Article 64 (Brief Report). DOI: [10.1186/s12992-025-01155-y](https://doi.org/10.1186/s12992-025-01155-y). **(SCI 中科院 Q2 TOP)**
 
 - **Liu, D.**, & Fan, G. (2025). Digital duality: negotiating tradition, modernity, and identity among rural housewife Douyin creators in China. *Information, Communication & Society*, 28(16), 3086–3103. DOI: [10.1080/1369118X.2025.2496903](https://doi.org/10.1080/1369118X.2025.2496903). **(SCI 中科院Q1 TOP)**
@@ -39,21 +41,15 @@ My research has been published in top-tier international journals and conference
 
 - **Liu, D.**, Sabri, A.Q.M., Rahman, S.S.A., Pan, L., & Fan, G.* (2027). When AI Breaks Down: Continuity Work, Dependency, and Repair in AI-Mediated Collaboration. *ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2027)*. Accepted; forthcoming. **(CCF A)**
 
-Final publication venue and paper/abstract type will be confirmed against formal publication records.
-
-**Peer-Reviewed Conference Papers (Co-author)**
+**Peer-Reviewed Conference Papers**
 
 - Fan, Guangrui, & **Liu, Dandan** (2025). When Machines Speak with Feeling: Investigating Emotional Prosody, Authenticity, and Trust in AI vs. Human Voices. *Proceedings of the 47th Annual Conference of the Cognitive Science Society*, 2055–2061. [Full text](https://escholarship.org/uc/item/8vr8s6h8).
 
 - Fan, Guangrui, & **Liu, Dandan** (2025). Co-Constructing Meaning with Large Language Models: A Longitudinal Analysis of Human-AI Dialogues in Emotional Support Contexts. *Proceedings of the 47th Annual Conference of the Cognitive Science Society*, 3164–3171. [Full text](https://escholarship.org/uc/item/4dn5q26f).
 
-**Other Conference Contribution (Publication Type to Confirm)**
-
 - **Liu, DanDan**. (2025). Beyond Top-Down Messaging: Frame Dynamics Across Government, Social Media, and Public Discourse in China's COVID-19 Crisis Communication. In *INTRAC 2025*.
 
 - Fan, G., **Liu, D.**, Pan, L., & Huang, Y. (2025). Creative Momentum Transfer: How Timing and Labeling of AI Suggestions Shape Iterative Human Ideation. In *International Joint Conferences on Artificial Intelligence (IJCAI)*. **(CCF A)**
-
-These conference records are retained from the existing profile; formal publication type remains to be confirmed.
 
 **Top-Tier Journal Publications (SCI 中科院Q1)**
 - Fan, G., **Liu, D.**, Zhang, R., & Pan, L. (2025). The impact of AI-assisted pair programming on student motivation, programming anxiety, collaborative learning, and programming performance. *International Journal of STEM Education*, 12(1), 16. **(SCI 中科院Q1 Top)**

@@ -18,3 +18,7 @@ package-lock.json
 
 # Ignore folders related to IDEs
 .vscode/
+
+# Keep editable CV sources local; publish PDFs only.
+/files/Dandan_Liu_CV.tex
+/files/cv-zh/

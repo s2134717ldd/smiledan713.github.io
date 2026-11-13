@@ -163,6 +163,8 @@ include:
   - _pages
   - files
 exclude:
+  - files/Dandan_Liu_CV.tex
+  - files/cv-zh
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
