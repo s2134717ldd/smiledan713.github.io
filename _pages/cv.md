@@ -9,70 +9,95 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV (PDF)]({{ '/files/Dandan_Liu_CV.pdf' | relative_url }}) · [Download editable LaTeX source]({{ '/files/Dandan_Liu_CV.tex' | relative_url }})
+**中文主版：**[下载 PDF]({{ '/files/Dandan_Liu_CV_Chinese.pdf' | relative_url }}) · [LaTeX 源文件]({{ '/files/cv-zh/main.tex' | relative_url }})<br>
+**English version:** [PDF]({{ '/files/Dandan_Liu_CV.pdf' | relative_url }}) · [LaTeX source]({{ '/files/Dandan_Liu_CV.tex' | relative_url }})
 
-中文简历：[下载 PDF]({{ '/files/Dandan_Liu_CV_Chinese.pdf' | relative_url }}) · [下载 LaTeX 源文件]({{ '/files/cv-zh/main.tex' | relative_url }})
+Updated 13 November 2026.
 
-Updated 12 November 2026.
-
-**Dandan Liu (Ivy)**<br>
+**Dandan Liu (刘丹丹)**<br>
 PhD Candidate in Media and Communication, Universiti Malaya<br>
-Kuala Lumpur, Malaysia<br>
+**Expected graduation: May 2027**<br>
+**Academic focus:** Computational Communication and Human–AI Communication<br>
 [todandan@foxmail.com](mailto:todandan@foxmail.com) · [ORCID](https://orcid.org/0009-0002-4702-8070)
-
-{% include research-interests-banner.html %}
-
-Research Profile
-======
-I study how digital platforms shape public discourse and human interaction. Combining qualitative and computational approaches, my research examines social media, crisis communication, and everyday encounters with AI.
-
-Research Themes
-======
-* **Digital discourse and crisis communication.** Pandemic communication, transnational influences, and the relationships between government messaging, social media, and public discourse.
-* **Human–AI communication.** Public LLM agents, emotional support and authenticity, and the changing structure of human-to-human interaction on social platforms.
-* **Platform governance and trust.** Fairness disclosures, content provenance, user choice, and the authority of AI-generated summaries and wearable wellness scores.
 
 Education
 ======
-* **Ph.D. Candidate** in Media and Communication, Department of Media and Communication Studies, Faculty of Arts and Social Sciences, Universiti Malaya, 2021–May 2027 (expected)
-  * Thesis: SEMANTIC GOVERNANCE AND CRISIS FRAMING IN CHINA’S COVID-19 PRESS CONFERENCES 2020–2023
 
+* **PhD Candidate, Media and Communication**, Universiti Malaya, 2021–May 2027 (expected graduation). Faculty of Arts and Social Sciences, Department of Media and Communication Studies.<br>
+  Thesis: *SEMANTIC GOVERNANCE AND CRISIS FRAMING IN CHINA’S COVID-19 PRESS CONFERENCES 2020–2023*.
+* **MA, Journalism and Communication**, School of Journalism, Fudan University, 2016–2018.
+* **BA, Journalism**, School of Journalism, Fudan University, 2010–2014.
 
-* **Master of Arts in Journalism and Communication**, School of Journalism, Fudan University, 2016-2018
-  * Thesis: The Media Properties and Community Properties of "Logical Thinking"
-
-
-* **Bachelor of Arts in Journalism**, School of Journalism, Fudan University, 2010-2014
-  * Thesis: Research on the Use and Satisfaction of College Students' Mobile News App in China
-
-Honors
+Research Profile
 ======
-* **Second Prize, People's Daily Online Excellent Paper Award**, for the bachelor's thesis on college students' use of mobile news apps.
 
-Research Skills and Languages
-======
-* **Approaches and tools:** Qualitative inquiry; computational communication; Python.
-* **Languages:** Mandarin (native); English (IELTS 6.5).
+My research examines public discourse, human–AI communication, and trust on digital platforms. Combining communication theory with qualitative and computational approaches, I study how platform interventions shape interaction and how institutions frame public health crises.
 
-First-Author Publications
+**Themes:** Human–AI interaction · Platform governance and trust · Crisis framing.
+
+Selected Research and Contributions
 ======
-<ol>
-{% for post in site.publications reversed %}
-  {% assign author_prefix = post.citation | slice: 0, 4 %}
-  {% if author_prefix == 'Liu,' %}
-    <li><p>{{ post.citation }} <a href="{{ post.url | relative_url }}">Details</a></p></li>
-  {% endif %}
+
+The following four first-author studies were led by Dandan Liu. Detailed roles follow published contribution statements where available; identifiers link to the complete citations below.
+
+* **From Solo Post to Shared Space [J1](#J1)** — *ACM Transactions on Social Computing* (2026). Led research on how a public LLM agent reshapes human-to-human conversation, using reply-network analysis, matching, and doubly robust estimation.
+* **“Fairness Labels” in Feeds [J2](#J2)** — *Social Media + Society* (2026). Led an online randomized experiment on creators’ fairness and legitimacy judgments. Published contributions include study design, software, investigation, data curation, formal analysis, visualization, and manuscript drafting and revision.
+* **From zero-COVID to global alignment [J5](#J5)** — *Globalization and Health* (2025), Brief Report. Led research examining 154 press-conference transcripts using topic modeling, frame analysis, and process tracing. The publication records equal contributions by all three authors to conception, design, analysis, and writing.
+* **Digital duality [J6](#J6)** — *Information, Communication & Society* (2025). Led an interview-based study of how rural housewife Douyin creators negotiate tradition, modernity, and identity.
+
+Courses Prepared to Teach
+======
+
+Computational Communication · Communication Research Methods · Human–AI Communication.
+
+These are prospective teaching areas, not previously taught courses.
+
+Methods in Published Research
+======
+
+Experimental design, data curation, software implementation, and statistical analysis [J2](#J2); qualitative study design, interview-based investigation, and multi-source data collection [J4](#J4); collaborative mixed-methods analysis of crisis discourse [J5](#J5). These describe research contributions, not project leadership or teaching appointments.
+
+Published and Online-First Journal Articles
+======
+
+First authorship applies to J1–J6. Bold names identify Dandan Liu. Journal articles, accepted work, proceedings papers, and other conference records are listed separately.
+
+{% for item in site.data.cv_publications %}
+{% if item.category == 'journal' %}
+<p id="{{ item.id }}"><strong>[{{ item.id }}]</strong> {{ item.citation }}</p>
+{% endif %}
 {% endfor %}
-</ol>
 
-Co-Authored Publications
+Accepted / Forthcoming
 ======
-<ol>
-{% for post in site.publications reversed %}
-  {% assign author_prefix = post.citation | slice: 0, 4 %}
-  {% unless author_prefix == 'Liu,' %}
-    <li><p>{{ post.citation }} <a href="{{ post.url | relative_url }}">Details</a></p></li>
-  {% endunless %}
+
+Acceptance status follows existing author records. Final publication venue and paper/abstract type for A1–A2 require the acceptance notices or formal publication records.
+
+{% for item in site.data.cv_publications %}
+{% if item.category == 'accepted' %}
+<p id="{{ item.id }}"><strong>[{{ item.id }}]</strong> {{ item.citation }}</p>
+{% endif %}
 {% endfor %}
-</ol>
+
+Peer-Reviewed Conference Proceedings
+======
+
+C1–C2 are full proceedings papers checked against the publisher-hosted PDFs; Dandan Liu is the second author.
+
+{% for item in site.data.cv_publications %}
+{% if item.category == 'conference' %}
+<p id="{{ item.id }}"><strong>[{{ item.id }}]</strong> {{ item.citation }}</p>
+{% endif %}
+{% endfor %}
+
+Other Conference Records
+======
+
+These entries are retained from the previous CV. Formal publication details and full-paper, abstract, or presentation type remain to be verified; they are excluded from the verified journal/proceedings counts.
+
+{% for item in site.data.cv_publications %}
+{% if item.category == 'record' %}
+<p id="{{ item.id }}"><strong>[{{ item.id }}]</strong> {{ item.citation }}</p>
+{% endif %}
+{% endfor %}
 

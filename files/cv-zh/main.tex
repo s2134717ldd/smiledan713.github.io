@@ -5,9 +5,9 @@
 % https://pascalmichaillat.org/f/
 % Compile twice with: xelatex main.tex
 % Self-contained source; uses standard Fandol, TeX Gyre Pagella, and Latin Modern fonts.
-% Content snapshot: 12 November 2026, from the website's about/CV/publication records.
-% Publication author order and abbreviated author lists are retained from those records.
-% Omitted: inconsistent master's thesis date (title retained).
+% Content snapshot: 13 November 2026, from the website's about/CV/publication records.
+% Journal metadata and CogSci author order checked against publisher/DOI records.
+% Unresolved conference records are retained in a separate category.
 % Template license follows.
 % MIT License
 %
@@ -46,7 +46,7 @@
 \definecolor{muted}{HTML}{54636C}
 \color{ink}
 \setlength{\parindent}{0pt}
-\setlength{\parskip}{5pt}
+\setlength{\parskip}{4pt}
 \linespread{1.15}
 \AtBeginDocument{\frenchspacing}
 \hypersetup{pdftitle={刘丹丹 — 中文学术简历},pdfauthor={刘丹丹 / Dandan Liu},
@@ -63,159 +63,165 @@
 \fancyhead[L]{\footnotesize\textcolor{muted}{刘丹丹 / Dandan Liu}}
 \fancyhead[R]{\footnotesize\textcolor{muted}{研究与学术成果}}
 \cvfoot{L}{\href{mailto:todandan@foxmail.com}{todandan@foxmail.com}}
-\cvfoot{C}{2026年11月12日}
+\cvfoot{C}{2026年11月13日}
 \cvfoot{R}{\thepage\,/\,\pageref*{LastPage}}
 \fancypagestyle{opening}{\fancyhead{}}
 \newcommand{\publication}[2]{%
   \par\addvspace{8pt}\noindent
   \begin{minipage}{\linewidth}
     \linespread{1.06}\fontsize{10.8}{13.4}\selectfont\raggedright
-    \hangindent=2.4em\hangafter=1
-    \makebox[2.4em][l]{\textcolor{teal}{[#1]}}#2
+    \hangindent=3em\hangafter=1
+    \makebox[3em][l]{\textcolor{teal}{[#1]}}#2
   \end{minipage}\par}
 \begin{document}
 \thispagestyle{opening}
-{\sffamily\small\color{muted} 学术简历 · 中文版}\par
-\vspace{1mm}
-{\fontsize{30}{36}\selectfont\color{navy}\textbf{刘丹丹}}\quad
-{\fontsize{18}{24}\selectfont\color{navy}Dandan Liu}\par
-{\large 媒体与传播学博士研究生}\par
-{\small 马来亚大学 · 文学与社会科学学院 · 媒体与传播研究系\\
-马来西亚，吉隆坡}\par
+{\fontsize{25}{30}\selectfont\color{navy}\textbf{刘丹丹}}\quad{\large Dandan Liu}\hfill{\small 学术简历}\par
+{\small 马来亚大学媒体与传播学博士研究生（在读）\\
+预计毕业：2027年5月 \sep 马来西亚，吉隆坡}\par
 {\small\href{mailto:todandan@foxmail.com}{todandan@foxmail.com} \sep
 \href{https://s2134717ldd.github.io/smiledan713.github.io/}{学术主页} \sep
 \href{https://orcid.org/0009-0002-4702-8070}{ORCID: 0009-0002-4702-8070}}\par
-
-\vspace{3mm}
-\begingroup
-\setlength{\fboxsep}{12pt}
-\noindent\colorbox{navy}{%
-\begin{minipage}{\dimexpr\linewidth-2\fboxsep\relax}
-\color{white}
-{\sffamily\fontsize{10}{12}\selectfont 研究兴趣}\par\vspace{4pt}
-{\fontsize{14}{21}\selectfont
-计算传播学 \sep 社交媒体 \sep 危机传播\\
-人机交互 \sep 数字话语与媒介动态}
-\end{minipage}}
-\endgroup
-
-\block{研究概述}
-我关注数字平台如何塑造公共话语与人际互动，结合质性研究与计算方法，研究社交媒体、危机传播和人机交互。
-
-\block{研究方向}
-\textbf{数字话语与危机传播：}关注疫情传播与跨国因素的影响，考察政府信息、社交媒体与公共话语的关系。
-
-\textbf{人机传播：}研究公共社交平台中的大语言模型智能体、情感支持与真实性，以及人际对话结构的变化。
-
-\textbf{平台治理与信任：}关注公平性披露、内容溯源、用户选择，以及人工智能生成摘要和可穿戴设备健康评分的权威性。
+{\small\textbf{应聘研究方向：}计算传播与人机传播}
 
 \block{教育背景}
 \textbf{媒体与传播学博士研究生}\hfill 2021年--2027年5月（预计）\\
 马来亚大学，文学与社会科学学院，媒体与传播研究系。\\
 {\small 博士论文：《中国新冠疫情新闻发布会中的语义治理与危机框架（2020--2023年）》\\
-英文题目：\emph{SEMANTIC GOVERNANCE AND CRISIS FRAMING IN CHINA'S COVID-19 PRESS CONFERENCES 2020--2023}.}
+\emph{Semantic Governance and Crisis Framing in China's COVID-19 Press Conferences 2020--2023}.}
 
 \textbf{新闻与传播学硕士}\hfill 2016--2018年\\
-复旦大学，新闻学院。\\
-{\small 硕士论文：《“罗辑思维”的媒体属性与社群属性》。}
+复旦大学，新闻学院。
 
 \textbf{新闻学学士}\hfill 2010--2014年\\
-复旦大学，新闻学院。\\
-{\small 本科论文：《中国大学生手机新闻客户端使用与满足研究》。}
+复旦大学，新闻学院。
+
+\block{研究定位}
+研究聚焦数字平台中的公共话语、人机传播与信任形成，结合传播学理论、质性研究与计算方法，考察社交媒体互动、平台干预和人工智能介入下的传播问题，并以公共卫生危机中的框架演变与语义治理为博士研究主线。
+\par{\small\textbf{研究主题：}人机互动 \sep 平台治理与信任 \sep 危机传播与框架分析}
+
+\block{代表成果与个人贡献}
+{\small 以下四项均为第一作者主导研究；具体分工优先依据论文公开贡献声明，编号对应完整引文。}\par
+\Needspace{6\baselineskip}
+\textbf{From Solo Post to Shared Space [J1]}\\
+{\small \emph{ACM Transactions on Social Computing}，2026。主导研究公共大语言模型智能体如何重塑人际对话结构；研究采用回复网络分析、匹配设计与双重稳健估计，考察社交平台中的人际互动。}
+
+\Needspace{6\baselineskip}
+\textbf{“Fairness Labels” in Feeds [J2]}\\
+{\small \emph{Social Media + Society}，2026。主导在线随机实验，研究流程披露如何影响创作者的公平感与平台正当性感知；公开声明中的个人分工包括研究设计、软件实现、调查、数据整理、统计分析、可视化及初稿与修订。}
+
+\Needspace{6\baselineskip}
+\textbf{From zero-COVID to global alignment [J5]}\\
+{\small \emph{Globalization and Health}，2025，简报（Brief Report）。主导研究推进，结合主题建模、框架分析与过程追踪分析154份新闻发布会文本；论文声明三位作者对构思、设计、分析与写作作出同等贡献。}
+
+\Needspace{5\baselineskip}
+\textbf{Digital duality [J6]}\\
+{\small \emph{Information, Communication \& Society}，2025。主导访谈研究，考察农村家庭主妇抖音创作者如何协商传统、现代性与身份。}
 
 \clearpage
-\block{第一作者论文（11篇）}
-{\small\color{muted}作者顺序、论文题名与发表信息保留原文；粗体标注本人。}\par
-% Source record: _publications/2026-09-18-ubicomp-wearable-wellness-scores.md
-\publication{1}{\textbf{Liu, D.}, \& Fan, G. (2027). When the Score Speaks First: Negotiating the Authority of Wearable Wellness Scores in Everyday Life. \emph{ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp/ISWC 2027)}. 已接收，待刊。}
+\block{可承担课程}
+{\small 计算传播 \sep 传播研究方法 \sep 人机传播。\\
+上述为可承担课程，非已授课程经历。}
 
-% Source record: _publications/2026-09-14-cscw-continuity-work.md
-\publication{2}{\textbf{Liu, D.}, Sabri, A.Q.M., Rahman, S.S.A., Pan, L., \& Fan, G. (2027). When AI Breaks Down: Continuity Work, Dependency, and Repair in AI-Mediated Collaboration. \emph{ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2027)}. 已接收，待刊。}
+\block{研究方法与实践}
+{\small 在线实验设计、软件实现、数据整理与统计分析[J2]；质性研究设计、访谈调查与多源数据采集[J4]；共同开展危机话语的混合方法分析[J5]。以上依据公开研究贡献列示，不等同于授课经历或项目主持经历。}
 
+\block{已发表／在线发表期刊论文}
+{\small J为期刊论文；本人姓名加粗，J1--J6为第一作者。期刊论文、已录用待刊、已核对的会议论文及其他会议记录分别列示，不合并为“已发表期刊论文”数量。}\par
 % Source record: _publications/2026-08-22-shared-space.md
-\publication{3}{\textbf{Liu, D.}, Pan, L., Md Sabri, A.Q., \& Fan, G. (2026). From Solo Post to Shared Space: How a Public LLM Agent Reshapes Human-to-Human Conversation Structure on a Social Platform. \emph{ACM Transactions on Social Computing}. \href{https://doi.org/10.1145/3844666}{doi:10.1145/3844666}.}
+\publication{J1}{\textbf{Liu, Dandan}; Pan, Lihu; Md Sabri, Aznul Qalid; Fan, Guangrui (2026). From Solo Post to Shared Space: How a Public LLM Agent Reshapes Human-to-Human Conversation Structure on a Social Platform. \emph{ACM Transactions on Social Computing}. 在线发表. \href{https://doi.org/10.1145/3844666}{doi:10.1145/3844666}.}
 
 % Source record: _publications/2026-07-15-fairness-labels.md
-\publication{4}{\textbf{Liu, D.}, \& Fan, G. (2026). ``Fairness Labels'' in Feeds: Process Disclosures, Provenance, and User Choice Among Short-Video Creators in Mainland China. \emph{Social Media + Society}, 12(3), Article 20563051261475922. \href{https://doi.org/10.1177/20563051261475922}{doi:10.1177/20563051261475922}.}
+\publication{J2}{\textbf{Liu, Dandan}; Fan, Guangrui (2026). “Fairness Labels” in Feeds: Process Disclosures, Provenance, and User Choice Among Short-Video Creators in Mainland China. \emph{Social Media + Society}, 12(3), Article 20563051261475922. \href{https://doi.org/10.1177/20563051261475922}{doi:10.1177/20563051261475922}.}
 
 % Source record: _publications/2026-04-03-textless-tiny-private.md
-\publication{5}{\textbf{Liu, D.}, Fan, G., Guo, Q., Zhang, R., \& Pan, L. (2026). Textless, Tiny, and Private: Hashed n-Grams with LLM-Teacher Distillation and Local Differential Privacy for Mental-Health Screening on Social Media. \emph{IEEE Transactions on Computational Social Systems} （在线优先发表）. \href{https://doi.org/10.1109/TCSS.2026.3693692}{doi:10.1109/TCSS.2026.3693692}.}
+\publication{J3}{\textbf{Liu, Dandan}; Fan, Guangrui; Guo, Qian; Zhang, Rui; Pan, Lihu (2026). Textless, Tiny, and Private: Hashed n-Grams With LLM-Teacher Distillation and Local Differential Privacy for Mental-Health Screening on Social Media. \emph{IEEE Transactions on Computational Social Systems}, 13(5), 6758--6772. \href{https://doi.org/10.1109/tcss.2026.3693692}{doi:10.1109/tcss.2026.3693692}.}
 
 % Source record: _publications/2026-01-01-tool-tutor-crutch.md
-\publication{6}{\textbf{Liu, D.}, Fan, G., \& Pan, L. (2026). Tool, tutor, or crutch?: A grounded theory of cognitive scaffolding and offloading in AI-assisted programming education. \emph{International Journal of STEM Education}, 13, 10. \href{https://doi.org/10.1186/s40594-025-00592-w}{doi:10.1186/s40594-025-00592-w}.}
-
-% Source record: _publications/2025-intrac-frame-dynamics.md
-\publication{7}{\textbf{Liu, DanDan}. (2025). Beyond Top-Down Messaging: Frame Dynamics Across Government, Social Media, and Public Discourse in China's COVID-19 Crisis Communication. In \emph{INTRAC 2025}.}
+\publication{J4}{\textbf{Liu, Dandan}; Fan, Guangrui; Pan, Lihu (2026). Tool, tutor, or crutch?: A grounded theory of cognitive scaffolding and offloading in AI-assisted programming education. \emph{International Journal of STEM Education}, 13(1), Article 10. \href{https://doi.org/10.1186/s40594-025-00592-w}{doi:10.1186/s40594-025-00592-w}.}
 
 % Source record: _publications/2025-zero-covid-china.md
-\publication{8}{\textbf{Liu, Dandan}, Siti Ezaleila Binti Mustafa, and Nor Zaliza Binti Sarmiti. (2025). From zero-COVID to global alignment: transnational pressures and China's pandemic communication transformation. \emph{Globalization and Health}. \href{https://doi.org/10.1186/s12992-025-01155-y}{doi:10.1186/s12992-025-01155-y}.}
-
-% Source record: _publications/2025-cogsci-ai-voices.md
-\publication{9}{\textbf{Liu, D.}, et al. (2025). When Machines Speak with Feeling: Investigating Emotional Prosody, Authenticity, and Trust in AI vs. Human Voices. In \emph{Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 47)}.}
-
-% Source record: _publications/2025-cogsci-llm-emotional-support.md
-\publication{10}{\textbf{Liu, D.}, et al. (2025). Co-Constructing Meaning with Large Language Models: A Longitudinal Analysis of Human-AI Dialogues in Emotional Support Contexts. In \emph{Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 47)}.}
+\publication{J5}{\textbf{Liu, Dandan}; Mustafa, Siti Ezaleila Binti; Sarmiti, Nor Zaliza Binti (2025). From zero-COVID to global alignment: transnational pressures and China's pandemic communication transformation [Brief Report]. \emph{Globalization and Health}, 21(1), Article 64. \href{https://doi.org/10.1186/s12992-025-01155-y}{doi:10.1186/s12992-025-01155-y}.}
 
 % Source record: _publications/2025-04-24-digital-duality.md
-\publication{11}{\textbf{Liu, D.}, \& Fan, G. (2025). Digital duality: negotiating tradition, modernity, and identity among rural housewife Douyin creators in China. \emph{Information, Communication and Society}. \href{https://doi.org/10.1080/1369118x.2025.2496903}{doi:10.1080/1369118x.2025.2496903}.}
-
-\clearpage
-\block{合作论文：2026年}
-% Source record: _publications/2026-08-20-fairsynth.md
-\publication{1}{Fan, G., \textbf{Liu, D.}, Guo, Q., Niu, X., \& Pan, L. (2026). FairSynth: Instrument-Relative Evaluation and Calibration of LLM Survey Simulations for Measurement Fairness. In \emph{Findings of the Association for Computational Linguistics: EMNLP 2026}. 已接收。}
-
-% Source record: _publications/2026-08-01-feeling-rules.md
-\publication{2}{Fan, G., \textbf{Liu, D.}, Sabri, A.Q.M., Zhang, R., \& Pan, L. (2026). Feeling Rules in Language Models: Mapping Norms of Emotional Appropriateness Across Roles, Institutions, and Intensity. In \emph{Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)}. ACL.}
-
-% Source record: _publications/2026-07-06-graph-preference-learning.md
-\publication{3}{Fan, G., \textbf{Liu, D.}, Sabri, A.Q.M., \& Pan, L. (2026). Graph-Preference Learning: Debiasing Network-Sampled Human Feedback for Target Welfare Estimation. In \emph{Proceedings of the 43rd International Conference on Machine Learning (ICML 2026)}. PMLR.}
-
-% Source record: _publications/2026-07-01-multi-llm-persona.md
-\publication{4}{Fan, G., \textbf{Liu, D.}, Pan, L., Zhang, R., \& Guo, Q. (2026). Multi-LLM Persona Generation for Virtual Focus Groups in Software Engineering: A Controlled, Multi-Domain Study of Emotional Requirements Elicitation. In \emph{Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE 2026)}. ACM.}
+\publication{J6}{\textbf{Liu, Dandan}; Fan, Guangrui (2025). Digital duality: negotiating tradition, modernity, and identity among rural housewife Douyin creators in China. \emph{Information, Communication \& Society}, 28(16), 3086--3103. \href{https://doi.org/10.1080/1369118x.2025.2496903}{doi:10.1080/1369118x.2025.2496903}.}
 
 % Source record: _publications/2026-06-22-conformal-k.md
-\publication{5}{Guangrui Fan, \textbf{DanDan Liu}, and Lihu Pan. 2026. Conformal@K: Distribution-Free Top-K Miss-Risk Control for Recommendation with Overlapping-Group and Two-Stage Guarantees. \emph{ACM Transactions on Information Systems} 44, 6, Article 138 (July 2026), 42 pages. \href{https://doi.org/10.1145/3828550}{doi:10.1145/3828550}.}
-
-% Source record: _publications/2026-05-03-eco-nudging.md
-\publication{6}{Fan, G., \textbf{Liu, D.}, et al. (2026). Co-Adaptive Eco-Nudging: A Privacy-Preserving Contextual Bandit with User-Taught Preferences. In \emph{Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI 2026)}. ACM.}
-
-% Source record: _publications/2026-05-02-verification-load.md
-\publication{7}{Fan, G., \textbf{Liu, D.}, et al. (2026). When Help Hurts: Verification Load and Fatigue with AI Coding Assistants. In \emph{Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI 2026)}. ACM.}
-
-% Source record: _publications/2026-05-01-ai-authorship-authenticity.md
-\publication{8}{Fan, G., \textbf{Liu, D.}, et al. (2026). Is It Still You? Attributing Authorship and Authenticity in AI-Assisted Romantic Communication. In \emph{Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI 2026)}. ACM.}
-
-% Source record: _publications/2026-04-25-consent-boundaries.md
-\publication{9}{Fan, G., \textbf{Liu, D.}, Pan, L., Zhang, R., \& Sabri, A.Q.M. (2026). Consent Boundaries by Play: A CI-Grounded Micro-Game for Eliciting Stable Preferences and Diagnosing Opt-Out Friction in Web Consent. In \emph{Proceedings of the 2026 European Conference on Computer-Supported Cooperative Work (ECSCW 2026)}. EUSSET.}
-
-% Source record: _publications/2026-04-01-audit-of-audits.md
-\publication{10}{Fan, G., \textbf{Liu, D.}, Sabri, A.Q.M., \& Pan, L. (2026). Audit-of-Audits for the Web: Bayesian Meta-Evaluation that Yields Interval-Valued, Threshold-Aligned Fairness Claims. In \emph{Proceedings of The Web Conference 2026 (WWW 2026)}.}
-
-% Source record: _publications/2026-02-01-mind-the-gap.md
-\publication{11}{Fan, G., \textbf{Liu, D.}, \& Pan, L. (2026). Mind the Gap: Predicting, Explaining and Reducing Time-to-First-Comment (Reply Gap) in Online Mental-Health Communities. In \emph{Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI 2026)}.}
-
-\clearpage
-\block{合作论文：2025年}
-% Source record: _publications/2025-ijcai-creative-momentum.md
-\publication{12}{Fan, G., \textbf{Liu, D.}, Pan, L., \& Huang, Y. (2025). Creative Momentum Transfer: How Timing and Labeling of AI Suggestions Shape Iterative Human Ideation. In \emph{International Joint Conferences on Artificial Intelligence (IJCAI)}.}
+\publication{J7}{Fan, Guangrui; \textbf{Liu, DanDan}; Pan, Lihu (2026). Conformal@K: Distribution-Free Top-K Miss-Risk Control for Recommendation with Overlapping-Group and Two-Stage Guarantees. \emph{ACM Transactions on Information Systems}, 44(6), Article 138, 1--42. \href{https://doi.org/10.1145/3828550}{doi:10.1145/3828550}.}
 
 % Source record: _publications/2025-skim-or-swim.md
-\publication{13}{Fan, G., \textbf{Liu, D.}, \& Huang, Y. (2025). Skim or Swim? Investigating AI-Generated Summaries, Trust, and Comprehension in Chinese Mobile Reading. \emph{International Journal of Human-Computer Interaction}, 1-22. \href{https://doi.org/10.1080/10447318.2025.2574513}{doi:10.1080/10447318.2025.2574513}.}
-
-% Source record: _publications/2025-ijcnn-artists-ai.md
-\publication{14}{Fan, G., \textbf{Liu, D.}, Pan, L., \& Huang, Y. (2025). Mapping Override Behavior: Investigating Why and How Artists Reject AI Suggestions in Collaborative Creation. In \emph{2025 International Joint Conference on Neural Networks (IJCNN)}.}
+\publication{J8}{Fan, Guangrui; \textbf{Liu, Dandan}; Huang, Yishan (2026). Skim or Swim? Investigating AI-Generated Summaries, Trust, and Comprehension in Chinese Mobile Reading. \emph{International Journal of Human--Computer Interaction}, 42(12), 9025--9046. \href{https://doi.org/10.1080/10447318.2025.2574513}{doi:10.1080/10447318.2025.2574513}.}
 
 % Source record: _publications/2025-03-04-ai-pair-programming.md
-\publication{15}{Fan, G., \textbf{Liu, D.}, Zhang, R., \& Pan, L. (2025). The impact of AI-assisted pair programming on student motivation, programming anxiety, collaborative learning, and programming performance: a comparative study with traditional pair programming and individual approaches. \emph{International Journal of STEM Education, 12}(1), 16. \href{https://doi.org/10.1186/s40594-025-00537-3}{doi:10.1186/s40594-025-00537-3}.}
+\publication{J9}{Fan, Guangrui; \textbf{Liu, Dandan}; Zhang, Rui; Pan, Lihu (2025). The impact of AI-assisted pair programming on student motivation, programming anxiety, collaborative learning, and programming performance: a comparative study with traditional pair programming and individual approaches. \emph{International Journal of STEM Education}, 12(1), Article 16. \href{https://doi.org/10.1186/s40594-025-00537-3}{doi:10.1186/s40594-025-00537-3}.}
 
 % Source record: _publications/2025-03-01-emotional-labor-nurses.md
-\publication{16}{Yang, Fang, \textbf{Dandan Liu}, and Guangrui Fan. (2025). Emotional labor and coping strategies of gynecological nurses in recurrent pregnancy loss care: a qualitative phenomenological study. \emph{BMC Nursing}, 24(1), 1-11. \href{https://doi.org/10.1186/s12912-025-02884-6}{doi:10.1186/s12912-025-02884-6}.}
+\publication{J10}{Yang, Fang; \textbf{Liu, Dandan}; Fan, Guangrui (2025). Emotional labor and coping strategies of gynecological nurses in recurrent pregnancy loss care: a qualitative phenomenological study. \emph{BMC Nursing}, 24(1), Article 234. \href{https://doi.org/10.1186/s12912-025-02884-6}{doi:10.1186/s12912-025-02884-6}.}
 
 % Source record: _publications/2025-01-11-power-posing.md
-\publication{17}{Deng, W., \textbf{Liu, D.}, \& Fan, G. (2025). The impact of power posing on presentation performance and self-efficacy in higher education: An embodied cognition approach. \emph{Innovations in Education and Teaching International}. \href{https://doi.org/10.1080/14703297.2025.2452393}{doi:10.1080/14703297.2025.2452393}.}
+\publication{J11}{Deng, Wenzhe; \textbf{Liu, Dandan}; Fan, Guangrui (2026). The impact of power posing on presentation performance and self-efficacy in higher education: An embodied cognition approach. \emph{Innovations in Education and Teaching International}, 63(2), 384--401. \href{https://doi.org/10.1080/14703297.2025.2452393}{doi:10.1080/14703297.2025.2452393}.}
 
 % Source record: _publications/2025-wechat-prenatal-education.md
-\publication{18}{He, Y., Fan, G., Fan, G., \& \textbf{Liu, D.} (2025). Exploring nurse and patient perspectives on WeChat-based prenatal education in Chinese public hospitals: a qualitative inquiry. \emph{BMC Nursing}, 24(1), 459.}
+\publication{J12}{He, Yushi; Fan, Guangmei; Fan, Guangrui; \textbf{Liu, Dandan} (2025). Exploring nurse and patient perspectives on WeChat-based prenatal education in Chinese public hospitals: a qualitative inquiry. \emph{BMC Nursing}, 24(1), Article 459. \href{https://doi.org/10.1186/s12912-025-03108-7}{doi:10.1186/s12912-025-03108-7}.}
+
+
+\block{已录用待刊成果}
+{\small 录用状态依据现有作者记录；A1--A2的正式出版载体及全文／摘要类型，仍须录用通知或正式出版记录确认。}\par
+% Source record: _publications/2026-09-18-ubicomp-wearable-wellness-scores.md
+\publication{A1}{\textbf{Liu, D.}, \& Fan, G. (2027). When the Score Speaks First: Negotiating the Authority of Wearable Wellness Scores in Everyday Life. \emph{ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp/ISWC 2027)}. 已接收，待刊。}
+
+% Source record: _publications/2026-09-14-cscw-continuity-work.md
+\publication{A2}{\textbf{Liu, D.}, Sabri, A.Q.M., Rahman, S.S.A., Pan, L., \& Fan, G. (2027). When AI Breaks Down: Continuity Work, Dependency, and Repair in AI-Mediated Collaboration. \emph{ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2027)}. 已接收，待刊。}
+
+% Source record: _publications/2026-08-20-fairsynth.md
+\publication{A3}{Fan, G., \textbf{Liu, D.}, Guo, Q., Niu, X., \& Pan, L. (2026). FairSynth: Instrument-Relative Evaluation and Calibration of LLM Survey Simulations for Measurement Fairness. In \emph{Findings of the Association for Computational Linguistics: EMNLP 2026}. 已接收。}
+
+
+\block{同行评审会议论文}
+{\small C1--C2已对照出版平台所载全文核对，均为会议论文集全文，刘丹丹为第二作者。}\par
+% Source record: _publications/2025-cogsci-ai-voices.md
+\publication{C1}{Fan, Guangrui; \textbf{Liu, Dandan} (2025). When Machines Speak with Feeling: Investigating Emotional Prosody, Authenticity, and Trust in AI vs. Human Voices. In \emph{Proceedings of the 47th Annual Conference of the Cognitive Science Society}, 2055--2061. \href{https://escholarship.org/uc/item/8vr8s6h8}{全文}.}
+
+% Source record: _publications/2025-cogsci-llm-emotional-support.md
+\publication{C2}{Fan, Guangrui; \textbf{Liu, Dandan} (2025). Co-Constructing Meaning with Large Language Models: A Longitudinal Analysis of Human-AI Dialogues in Emotional Support Contexts. In \emph{Proceedings of the 47th Annual Conference of the Cognitive Science Society}, 3164--3171. \href{https://escholarship.org/uc/item/4dn5q26f}{全文}.}
+
+
+\block{其他会议成果记录（类型待核）}
+{\small 以下条目保留自原简历；正式出版信息及全文、摘要或报告类型尚待核实，不计入已核对的期刊／会议全文数量。}\par
+% Source record: _publications/2025-intrac-frame-dynamics.md
+\publication{R1}{\textbf{Liu, DanDan}. (2025). Beyond Top-Down Messaging: Frame Dynamics Across Government, Social Media, and Public Discourse in China's COVID-19 Crisis Communication. In \emph{INTRAC 2025}.}
+
+% Source record: _publications/2026-08-01-feeling-rules.md
+\publication{R2}{Fan, G., \textbf{Liu, D.}, Sabri, A.Q.M., Zhang, R., \& Pan, L. (2026). Feeling Rules in Language Models: Mapping Norms of Emotional Appropriateness Across Roles, Institutions, and Intensity. In \emph{Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)}. ACL.}
+
+% Source record: _publications/2026-07-06-graph-preference-learning.md
+\publication{R3}{Fan, G., \textbf{Liu, D.}, Sabri, A.Q.M., \& Pan, L. (2026). Graph-Preference Learning: Debiasing Network-Sampled Human Feedback for Target Welfare Estimation. In \emph{Proceedings of the 43rd International Conference on Machine Learning (ICML 2026)}. PMLR.}
+
+% Source record: _publications/2026-07-01-multi-llm-persona.md
+\publication{R4}{Fan, G., \textbf{Liu, D.}, Pan, L., Zhang, R., \& Guo, Q. (2026). Multi-LLM Persona Generation for Virtual Focus Groups in Software Engineering: A Controlled, Multi-Domain Study of Emotional Requirements Elicitation. In \emph{Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE 2026)}. ACM.}
+
+% Source record: _publications/2026-05-03-eco-nudging.md
+\publication{R5}{Fan, G., \textbf{Liu, D.}, et al. (2026). Co-Adaptive Eco-Nudging: A Privacy-Preserving Contextual Bandit with User-Taught Preferences. In \emph{Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI 2026)}. ACM.}
+
+% Source record: _publications/2026-05-02-verification-load.md
+\publication{R6}{Fan, G., \textbf{Liu, D.}, et al. (2026). When Help Hurts: Verification Load and Fatigue with AI Coding Assistants. In \emph{Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI 2026)}. ACM.}
+
+% Source record: _publications/2026-05-01-ai-authorship-authenticity.md
+\publication{R7}{Fan, G., \textbf{Liu, D.}, et al. (2026). Is It Still You? Attributing Authorship and Authenticity in AI-Assisted Romantic Communication. In \emph{Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI 2026)}. ACM.}
+
+% Source record: _publications/2026-04-25-consent-boundaries.md
+\publication{R8}{Fan, G., \textbf{Liu, D.}, Pan, L., Zhang, R., \& Sabri, A.Q.M. (2026). Consent Boundaries by Play: A CI-Grounded Micro-Game for Eliciting Stable Preferences and Diagnosing Opt-Out Friction in Web Consent. In \emph{Proceedings of the 2026 European Conference on Computer-Supported Cooperative Work (ECSCW 2026)}. EUSSET.}
+
+% Source record: _publications/2026-04-01-audit-of-audits.md
+\publication{R9}{Fan, G., \textbf{Liu, D.}, Sabri, A.Q.M., \& Pan, L. (2026). Audit-of-Audits for the Web: Bayesian Meta-Evaluation that Yields Interval-Valued, Threshold-Aligned Fairness Claims. In \emph{Proceedings of The Web Conference 2026 (WWW 2026)}.}
+
+% Source record: _publications/2026-02-01-mind-the-gap.md
+\publication{R10}{Fan, G., \textbf{Liu, D.}, \& Pan, L. (2026). Mind the Gap: Predicting, Explaining and Reducing Time-to-First-Comment (Reply Gap) in Online Mental-Health Communities. In \emph{Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI 2026)}.}
+
+% Source record: _publications/2025-ijcai-creative-momentum.md
+\publication{R11}{Fan, G., \textbf{Liu, D.}, Pan, L., \& Huang, Y. (2025). Creative Momentum Transfer: How Timing and Labeling of AI Suggestions Shape Iterative Human Ideation. In \emph{International Joint Conferences on Artificial Intelligence (IJCAI)}.}
+
+% Source record: _publications/2025-ijcnn-artists-ai.md
+\publication{R12}{Fan, G., \textbf{Liu, D.}, Pan, L., \& Huang, Y. (2025). Mapping Override Behavior: Investigating Why and How Artists Reject AI Suggestions in Collaborative Creation. In \emph{2025 International Joint Conference on Neural Networks (IJCNN)}.}
 
 \label{LastPage}
 \end{document}
