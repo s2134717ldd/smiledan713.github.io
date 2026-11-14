@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-skim-or-swim
 excerpt: 'Examining how AI-generated summaries shape engagement, comprehension, and trust among Chinese mobile readers in a mixed-methods within-subjects experiment.'
-date: 2025-06-18
+date: 2026-06-18
 venue: 'International Journal of Human–Computer Interaction'
 #slidesurl: 'http://academicpages.github.io/files/slides5.pdf'
 paperurl: 'https://doi.org/10.1080/10447318.2025.2574513'

@@ -21,19 +21,19 @@ My research has been published in top-tier international journals and conference
 
 **First-Author Journal Publications (Published / Online)**
 
-- **Liu, D.**, Pan, L., Md Sabri, A.Q., & Fan, G. (2026). From Solo Post to Shared Space: How a Public LLM Agent Reshapes Human-to-Human Conversation Structure on a Social Platform. *ACM Transactions on Social Computing*. DOI: [10.1145/3844666](https://doi.org/10.1145/3844666).
-
 - **Liu, D.**, & Fan, G. (2026). “Fairness Labels” in Feeds: Process Disclosures, Provenance, and User Choice Among Short-Video Creators in Mainland China. *Social Media + Society*, 12(3), Article 20563051261475922. DOI: [10.1177/20563051261475922](https://doi.org/10.1177/20563051261475922). **(SSCI 中科院Q1 Top)**
-
-- **Liu, D.**, Fan, G., Guo, Q., Zhang, R., & Pan, L. (2026). Textless, Tiny, and Private: Hashed n-Grams with LLM-Teacher Distillation and Local Differential Privacy for Mental-Health Screening on Social Media. *IEEE Transactions on Computational Social Systems*, 13(5), 6758–6772. DOI: [10.1109/TCSS.2026.3693692](https://doi.org/10.1109/TCSS.2026.3693692). **(CCF C)**
 
 - **Liu, D.**, Fan, G., & Pan, L. (2026). Tool, tutor, or crutch?: A grounded theory of cognitive scaffolding and offloading in AI-assisted programming education. *International Journal of STEM Education*, 13, 10. DOI: [10.1186/s40594-025-00592-w](https://doi.org/10.1186/s40594-025-00592-w). **(SCI 中科院Q1 Top)**
 
-- **Liu, D.**, & Fan, G. (2026). [Governing modesty: Platformed urban gaze and rural Chinese housewives on Douyin]({{ '/publication/2026-governing-modesty' | relative_url }}). *Journal of Rural Studies*, 121, Article 103937. DOI: [10.1016/j.jrurstud.2025.103937](https://doi.org/10.1016/j.jrurstud.2025.103937). **(SSCI 中科院1区)**
+- **Liu, D.**, & Fan, G. (2026). [Governing modesty: Platformed urban gaze and rural Chinese housewives on Douyin]({{ '/publication/2026-governing-modesty' | relative_url }}). *Journal of Rural Studies*, 121, Article 103937. DOI: [10.1016/j.jrurstud.2025.103937](https://doi.org/10.1016/j.jrurstud.2025.103937). **(SSCI 中科院1区 TOP)**
+
+- **Liu, D.**, & Fan, G. (2025). Digital duality: negotiating tradition, modernity, and identity among rural housewife Douyin creators in China. *Information, Communication & Society*, 28(16), 3086–3103. DOI: [10.1080/1369118X.2025.2496903](https://doi.org/10.1080/1369118X.2025.2496903). **(SCI 中科院Q1 TOP)**
 
 - **Liu, Dandan**, Siti Ezaleila Binti Mustafa, and Nor Zaliza Binti Sarmiti. (2025). From zero-COVID to global alignment: transnational pressures and China's pandemic communication transformation. *Globalization and Health*, 21(1), Article 64 (Brief Report). DOI: [10.1186/s12992-025-01155-y](https://doi.org/10.1186/s12992-025-01155-y). **(SCI 中科院 Q2 TOP)**
 
-- **Liu, D.**, & Fan, G. (2025). Digital duality: negotiating tradition, modernity, and identity among rural housewife Douyin creators in China. *Information, Communication & Society*, 28(16), 3086–3103. DOI: [10.1080/1369118X.2025.2496903](https://doi.org/10.1080/1369118X.2025.2496903). **(SCI 中科院Q1 TOP)**
+- **Liu, D.**, Fan, G., Guo, Q., Zhang, R., & Pan, L. (2026). Textless, Tiny, and Private: Hashed n-Grams with LLM-Teacher Distillation and Local Differential Privacy for Mental-Health Screening on Social Media. *IEEE Transactions on Computational Social Systems*, 13(5), 6758–6772. DOI: [10.1109/TCSS.2026.3693692](https://doi.org/10.1109/TCSS.2026.3693692). **(CCF C)**
+
+- **Liu, D.**, Pan, L., Md Sabri, A.Q., & Fan, G. (2026). From Solo Post to Shared Space: How a Public LLM Agent Reshapes Human-to-Human Conversation Structure on a Social Platform. *ACM Transactions on Social Computing*. DOI: [10.1145/3844666](https://doi.org/10.1145/3844666).
 
 **Accepted / Forthcoming (First Author)**
 

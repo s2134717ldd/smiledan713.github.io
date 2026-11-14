@@ -2,6 +2,7 @@
 title: "Exploring nurse and patient perspectives on WeChat-based prenatal education in Chinese public hospitals: a qualitative inquiry (SCI 中科院Q2)"
 collection: publications
 category: manuscripts
+cas_quartile: 2
 permalink: /publication/2025-wechat-prenatal-education
 excerpt: 'A qualitative study examining how nurses implement and pregnant women engage with WeChat-based prenatal education in Chinese public hospitals.'
 date: 2025-04-26

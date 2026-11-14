@@ -1,7 +1,8 @@
 ---
-title: "Governing modesty: Platformed urban gaze and rural Chinese housewives on Douyin (SSCI 中科院1区)"
+title: "Governing modesty: Platformed urban gaze and rural Chinese housewives on Douyin (SSCI 中科院1区 TOP)"
 collection: publications
 category: manuscripts
+cas_quartile: 1
 permalink: /publication/2026-governing-modesty
 excerpt: 'A study of how rural Chinese housewife creators on Douyin perform calibrated modesty under a platformed urban gaze.'
 date: 2026-01-01

@@ -2,9 +2,10 @@
 title: "The impact of power posing on presentation performance and self-efficacy in higher education: An embodied cognition approach (SCI 中科院Q4)"
 collection: publications
 category: manuscripts
+cas_quartile: 4
 permalink: /publication/2025-01-11-power-posing
 excerpt: 'This paper examines the impact of power posing on presentation performance and self-efficacy in higher education through an embodied cognition approach.'
-date: 2025-01-11
+date: 2026-03-04
 venue: 'Innovations in Education and Teaching International'
 #slidesurl: 'http://academicpages.github.io/files/slides4.pdf'
 paperurl: 'https://doi.org/10.1080/14703297.2025.2452393'

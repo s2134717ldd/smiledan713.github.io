@@ -2,6 +2,7 @@
 title: "“Fairness Labels” in Feeds: Process Disclosures, Provenance, and User Choice Among Short-Video Creators in Mainland China (SSCI 中科院Q1 Top)"
 collection: publications
 category: manuscripts
+cas_quartile: 1
 permalink: /publication/2026-sms-fairness-labels
 excerpt: 'A study of process disclosures, content provenance, and user choice among short-video creators in Mainland China.'
 date: 2026-08-25

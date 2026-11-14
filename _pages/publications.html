@@ -14,8 +14,16 @@ author_profile: true
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
+    {% assign publications = site.publications | reverse %}
+    {% if category[0] == 'manuscripts' %}
+      {% assign journals = site.publications | where: "category", "manuscripts" | sort: "date" | reverse %}
+      {% assign quartile_one = journals | where: "cas_quartile", 1 %}
+      {% assign quartile_two = journals | where: "cas_quartile", 2 %}
+      {% assign other_journals = journals | where_exp: "journal", "journal.cas_quartile != 1" | where_exp: "journal", "journal.cas_quartile != 2" %}
+      {% assign publications = quartile_one | concat: quartile_two | concat: other_journals %}
+    {% endif %}
     {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
+    {% for post in publications %}
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
