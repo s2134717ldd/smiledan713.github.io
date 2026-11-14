@@ -1,0 +1,10 @@
+{
+  "worktree": {
+    "setup": "sh .paseo/setup.sh"
+  },
+  "scripts": {
+    "setup": {
+      "command": "sh .paseo/setup.sh"
+    }
+  }
+}

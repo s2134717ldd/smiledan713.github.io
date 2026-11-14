@@ -187,6 +187,7 @@ exclude:
   - log
   - node_modules
   - package.json*
+  - paseo.json
   - Rakefile
   - README
   - tmp
