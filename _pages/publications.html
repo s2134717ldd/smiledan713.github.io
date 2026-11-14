@@ -18,9 +18,10 @@ author_profile: true
     {% if category[0] == 'manuscripts' %}
       {% assign journals = site.publications | where: "category", "manuscripts" | sort: "date" | reverse %}
       {% assign quartile_one = journals | where: "cas_quartile", 1 %}
-      {% assign quartile_two = journals | where: "cas_quartile", 2 %}
+      {% assign quartile_two = journals | where: "cas_quartile", 2 | where_exp: "journal", "journal.listing_last != true" %}
       {% assign other_journals = journals | where_exp: "journal", "journal.cas_quartile != 1" | where_exp: "journal", "journal.cas_quartile != 2" %}
-      {% assign publications = quartile_one | concat: quartile_two | concat: other_journals %}
+      {% assign last_journals = journals | where: "listing_last", true %}
+      {% assign publications = quartile_one | concat: quartile_two | concat: other_journals | concat: last_journals %}
     {% endif %}
     {% assign title_shown = false %}
     {% for post in publications %}

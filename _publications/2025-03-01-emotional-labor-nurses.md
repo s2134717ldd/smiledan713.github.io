@@ -3,6 +3,7 @@ title: "Emotional labor and coping strategies of gynecological nurses in recurre
 collection: publications
 category: manuscripts
 cas_quartile: 2
+listing_last: true
 permalink: /publication/2025-03-01-emotional-labor-nurses
 excerpt: 'This qualitative phenomenological study explores the emotional labor and coping strategies of gynecological nurses in recurrent pregnancy loss care.'
 date: 2025-03-01
