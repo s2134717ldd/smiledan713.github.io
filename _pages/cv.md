@@ -16,7 +16,7 @@ Updated 14 November 2026.
 
 **Dandan Liu (刘丹丹)**<br>
 PhD Candidate in Media and Communication, Universiti Malaya<br>
-**Expected graduation: May 2027**<br>
+**Expected graduation: March 2027**<br>
 **Academic focus:** Computational Communication and Human–AI Communication<br>
 [todandan@foxmail.com](mailto:todandan@foxmail.com) · <a href="https://orcid.org/0009-0002-4702-8070" style="color: var(--global-link-color);">ORCID: 0009-0002-4702-8070</a><br>
 Academic website: <a href="https://s2134717ldd.github.io/smiledan713.github.io/" style="color: var(--global-link-color);">https://s2134717ldd.github.io/smiledan713.github.io/</a>
@@ -24,7 +24,7 @@ Academic website: <a href="https://s2134717ldd.github.io/smiledan713.github.io/"
 Education
 ======
 
-* **PhD Candidate, Media and Communication**, Universiti Malaya, 2021–May 2027 (expected graduation). Faculty of Arts and Social Sciences, Department of Media and Communication Studies.<br>
+* **PhD Candidate, Media and Communication**, Universiti Malaya, 2021–March 2027 (expected graduation). Faculty of Arts and Social Sciences, Department of Media and Communication Studies.<br>
   Thesis: *SEMANTIC GOVERNANCE AND CRISIS FRAMING IN CHINA’S COVID-19 PRESS CONFERENCES 2020–2023*.
 * **MA, Journalism and Communication**, School of Journalism, Fudan University, 2016–2018.
 * **BA, Journalism**, School of Journalism, Fudan University, 2010–2014.
