@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-**中文主版：**[下载 PDF]({{ '/files/Dandan_Liu_CV_Chinese.pdf' | relative_url }})<br>
-**English version:** [PDF]({{ '/files/Dandan_Liu_CV.pdf' | relative_url }})
+**中文主版：**[下载 PDF]({{ '/files/Dandan_Liu_CV_CN.pdf' | relative_url }})<br>
+**English version:** [PDF]({{ '/files/Dandan_Liu_CV_EN.pdf' | relative_url }})
 
 Updated 14 November 2026.
 
@@ -24,7 +24,7 @@ Academic website: <a href="https://s2134717ldd.github.io/smiledan713.github.io/"
 Education
 ======
 
-* **PhD Candidate, Media and Communication**, Universiti Malaya, 2021–March 2027 (expected graduation). Faculty of Arts and Social Sciences, Department of Media and Communication Studies.<br>
+* **PhD Candidate, Media and Communication**, Universiti Malaya, 2022–March 2027 (expected graduation). Faculty of Arts and Social Sciences, Department of Media and Communication Studies.<br>
   Thesis: *SEMANTIC GOVERNANCE AND CRISIS FRAMING IN CHINA’S COVID-19 PRESS CONFERENCES 2020–2023*.
 * **MA, Journalism and Communication**, School of Journalism, Fudan University, 2016–2018.
 * **BA, Journalism**, School of Journalism, Fudan University, 2010–2014.

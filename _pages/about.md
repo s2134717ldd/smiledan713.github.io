@@ -66,7 +66,7 @@ Academic Background
 ======
 I hold both my bachelor's and master's degrees in Journalism and Communication from Fudan University's School of Journalism (QS Top 31, Chinese 985&211 Project Elite Institution). My bachelor thesis on mobile news app usage received the Second Prize of People's Daily Online Excellent Paper Award. I am currently pursuing my PhD at Universiti Malaya, focusing on advanced research in media and communication studies with emphasis on computational methods and digital discourse analysis.
 
-**PhD period:** 2021–March 2027 (expected graduation).<br>
+**PhD period:** 2022–March 2027 (expected graduation).<br>
 **PhD thesis:** *SEMANTIC GOVERNANCE AND CRISIS FRAMING IN CHINA’S COVID-19 PRESS CONFERENCES 2020–2023*.
 
 Contact
