@@ -39,10 +39,10 @@ My research examines public discourse, human–AI communication, and trust on di
 Selected Research and Contributions
 ======
 
-* **From Solo Post to Shared Space [J1](#J1)** — *ACM Transactions on Social Computing* (2026). Led research on how a public LLM agent reshapes human-to-human conversation, using reply-network analysis, matching, and doubly robust estimation.
-* **“Fairness Labels” in Feeds [J2](#J2)** — *Social Media + Society* (2026). Led an online randomized experiment on creators’ fairness and legitimacy judgments. Responsibilities included study design, software, investigation, data curation, formal analysis, visualization, and manuscript drafting and revision.
-* **From zero-COVID to global alignment [J5](#J5)** — *Globalization and Health* (2025), Brief Report. Led research examining 154 press-conference transcripts using topic modeling, frame analysis, and process tracing.
-* **Digital duality [J6](#J6)** — *Information, Communication & Society* (2025). Led an interview-based study of how rural housewife Douyin creators negotiate tradition, modernity, and identity.
+* **From Solo Post to Shared Space [J8](#J8)** — *ACM Transactions on Social Computing* (2026). Led research on how a public LLM agent reshapes human-to-human conversation, using reply-network analysis, matching, and doubly robust estimation.
+* **“Fairness Labels” in Feeds [J1](#J1)** — *Social Media + Society* (2026). Led an online randomized experiment on creators’ fairness and legitimacy judgments. Responsibilities included study design, software, investigation, data curation, formal analysis, visualization, and manuscript drafting and revision.
+* **From zero-COVID to global alignment [J6](#J6)** — *Globalization and Health* (2025), Brief Report. Led research examining 154 press-conference transcripts using topic modeling, frame analysis, and process tracing.
+* **Digital duality [J4](#J4)** — *Information, Communication & Society* (2025). Led an interview-based study of how rural housewife Douyin creators negotiate tradition, modernity, and identity.
 
 Courses Prepared to Teach
 ======
@@ -52,7 +52,7 @@ Computational Communication · Communication Research Methods · Human–AI Comm
 Research Methods
 ======
 
-Experimental design, data curation, software implementation, and statistical analysis [J2](#J2); qualitative study design, interview-based investigation, and multi-source data collection [J4](#J4); collaborative mixed-methods analysis of crisis discourse [J5](#J5).
+Experimental design, data curation, software implementation, and statistical analysis [J1](#J1); qualitative study design, interview-based investigation, and multi-source data collection [J2](#J2); collaborative mixed-methods analysis of crisis discourse [J6](#J6).
 
 Published and Online-First Journal Articles
 ======
