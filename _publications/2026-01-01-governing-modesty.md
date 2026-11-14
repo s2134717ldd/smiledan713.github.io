@@ -1,5 +1,5 @@
 ---
-title: "Governing modesty: Platformed urban gaze and rural Chinese housewives on Douyin"
+title: "Governing modesty: Platformed urban gaze and rural Chinese housewives on Douyin (SSCI 中科院1区)"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-governing-modesty

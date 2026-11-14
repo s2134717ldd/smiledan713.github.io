@@ -29,7 +29,7 @@ My research has been published in top-tier international journals and conference
 
 - **Liu, D.**, Fan, G., & Pan, L. (2026). Tool, tutor, or crutch?: A grounded theory of cognitive scaffolding and offloading in AI-assisted programming education. *International Journal of STEM Education*, 13, 10. DOI: [10.1186/s40594-025-00592-w](https://doi.org/10.1186/s40594-025-00592-w). **(SCI 中科院Q1 Top)**
 
-- **Liu, D.**, & Fan, G. (2026). [Governing modesty: Platformed urban gaze and rural Chinese housewives on Douyin]({{ '/publication/2026-governing-modesty' | relative_url }}). *Journal of Rural Studies*, 121, Article 103937. DOI: [10.1016/j.jrurstud.2025.103937](https://doi.org/10.1016/j.jrurstud.2025.103937).
+- **Liu, D.**, & Fan, G. (2026). [Governing modesty: Platformed urban gaze and rural Chinese housewives on Douyin]({{ '/publication/2026-governing-modesty' | relative_url }}). *Journal of Rural Studies*, 121, Article 103937. DOI: [10.1016/j.jrurstud.2025.103937](https://doi.org/10.1016/j.jrurstud.2025.103937). **(SSCI 中科院1区)**
 
 - **Liu, Dandan**, Siti Ezaleila Binti Mustafa, and Nor Zaliza Binti Sarmiti. (2025). From zero-COVID to global alignment: transnational pressures and China's pandemic communication transformation. *Globalization and Health*, 21(1), Article 64 (Brief Report). DOI: [10.1186/s12992-025-01155-y](https://doi.org/10.1186/s12992-025-01155-y). **(SCI 中科院 Q2 TOP)**
 
