@@ -108,73 +108,73 @@
     "citation": "Fan, Guangrui; <strong>Liu, Dandan</strong> (2025). Co-Constructing Meaning with Large Language Models: A Longitudinal Analysis of Human-AI Dialogues in Emotional Support Contexts. In <i>Proceedings of the 47th Annual Conference of the Cognitive Science Society</i>, 3164–3171. <a href=\"https://escholarship.org/uc/item/4dn5q26f\">Full text</a>. <strong>[CCF B]</strong>"
   },
   {
-    "id": "C4",
+    "id": "C3",
     "category": "conference",
     "file": "_publications/2026-08-01-feeling-rules.md",
     "citation": "Fan, G., <strong>Liu, D.</strong>, Sabri, A.Q.M., Zhang, R., &amp; Pan, L. (2026). Feeling Rules in Language Models: Mapping Norms of Emotional Appropriateness Across Roles, Institutions, and Intensity. In <i>Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)</i>. ACL. <strong>[CCF A]</strong>"
   },
   {
-    "id": "C5",
+    "id": "C4",
     "category": "conference",
     "file": "_publications/2026-07-06-graph-preference-learning.md",
     "citation": "Fan, G., <strong>Liu, D.</strong>, Sabri, A.Q.M., &amp; Pan, L. (2026). Graph-Preference Learning: Debiasing Network-Sampled Human Feedback for Target Welfare Estimation. In <i>Proceedings of the 43rd International Conference on Machine Learning (ICML 2026)</i>. PMLR. <strong>[CCF A]</strong>"
   },
   {
-    "id": "C6",
+    "id": "C5",
     "category": "conference",
     "file": "_publications/2026-07-01-multi-llm-persona.md",
     "citation": "Fan, G., <strong>Liu, D.</strong>, Pan, L., Zhang, R., &amp; Guo, Q. (2026). Multi-LLM Persona Generation for Virtual Focus Groups in Software Engineering: A Controlled, Multi-Domain Study of Emotional Requirements Elicitation. In <i>Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE 2026)</i>. ACM. <strong>[CCF A]</strong>"
   },
   {
-    "id": "C7",
+    "id": "C6",
     "category": "conference",
     "file": "_publications/2026-05-03-eco-nudging.md",
     "citation": "Fan, G., <strong>Liu, D.</strong>, et al. (2026). Co-Adaptive Eco-Nudging: A Privacy-Preserving Contextual Bandit with User-Taught Preferences. In <i>Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI 2026)</i>. ACM. <strong>[CCF A]</strong>"
   },
   {
-    "id": "C8",
+    "id": "C7",
     "category": "conference",
     "file": "_publications/2026-05-02-verification-load.md",
     "citation": "Fan, G., <strong>Liu, D.</strong>, et al. (2026). When Help Hurts: Verification Load and Fatigue with AI Coding Assistants. In <i>Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI 2026)</i>. ACM. <strong>[CCF A]</strong>"
   },
   {
-    "id": "C9",
+    "id": "C8",
     "category": "conference",
     "file": "_publications/2026-05-01-ai-authorship-authenticity.md",
     "citation": "Fan, G., <strong>Liu, D.</strong>, et al. (2026). Is It Still You? Attributing Authorship and Authenticity in AI-Assisted Romantic Communication. In <i>Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI 2026)</i>. ACM. <strong>[CCF A]</strong>"
   },
   {
-    "id": "C10",
+    "id": "C9",
     "category": "conference",
     "file": "_publications/2026-04-25-consent-boundaries.md",
     "citation": "Fan, G., <strong>Liu, D.</strong>, Pan, L., Zhang, R., &amp; Sabri, A.Q.M. (2026). Consent Boundaries by Play: A CI-Grounded Micro-Game for Eliciting Stable Preferences and Diagnosing Opt-Out Friction in Web Consent. In <i>Proceedings of the 2026 European Conference on Computer-Supported Cooperative Work (ECSCW 2026)</i>. EUSSET. <strong>[CCF B]</strong>"
   },
   {
-    "id": "C11",
+    "id": "C10",
     "category": "conference",
     "file": "_publications/2026-04-01-audit-of-audits.md",
     "citation": "Fan, G., <strong>Liu, D.</strong>, Sabri, A.Q.M., &amp; Pan, L. (2026). Audit-of-Audits for the Web: Bayesian Meta-Evaluation that Yields Interval-Valued, Threshold-Aligned Fairness Claims. In <i>Proceedings of The Web Conference 2026 (WWW 2026)</i>. <strong>[CCF A]</strong>"
   },
   {
-    "id": "C12",
+    "id": "C11",
     "category": "conference",
     "file": "_publications/2026-02-01-mind-the-gap.md",
     "citation": "Fan, G., <strong>Liu, D.</strong>, &amp; Pan, L. (2026). Mind the Gap: Predicting, Explaining and Reducing Time-to-First-Comment (Reply Gap) in Online Mental-Health Communities. In <i>Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI 2026)</i>. <strong>[CCF A]</strong>"
   },
   {
-    "id": "C13",
+    "id": "C12",
     "category": "conference",
     "file": "_publications/2025-ijcai-creative-momentum.md",
     "citation": "Fan, G., <strong>Liu, D.</strong>, Pan, L., &amp; Huang, Y. (2025). Creative Momentum Transfer: How Timing and Labeling of AI Suggestions Shape Iterative Human Ideation. In <i>International Joint Conferences on Artificial Intelligence (IJCAI)</i>. <strong>[CCF A]</strong>"
   },
   {
-    "id": "C14",
+    "id": "C13",
     "category": "conference",
     "file": "_publications/2025-ijcnn-artists-ai.md",
     "citation": "Fan, G., <strong>Liu, D.</strong>, Pan, L., &amp; Huang, Y. (2025). Mapping Override Behavior: Investigating Why and How Artists Reject AI Suggestions in Collaborative Creation. In <i>2025 International Joint Conference on Neural Networks (IJCNN)</i>. <strong>[CCF C]</strong>"
   },
   {
-    "id": "C3",
+    "id": "C14",
     "category": "conference",
     "file": "_publications/2025-intrac-frame-dynamics.md",
     "citation": "<strong>Liu, DanDan</strong>. (2025). Beyond Top-Down Messaging: Frame Dynamics Across Government, Social Media, and Public Discourse in China's COVID-19 Crisis Communication. In <i>INTRAC 2025</i>."
