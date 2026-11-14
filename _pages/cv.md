@@ -18,7 +18,8 @@ Updated 14 November 2026.
 PhD Candidate in Media and Communication, Universiti Malaya<br>
 **Expected graduation: May 2027**<br>
 **Academic focus:** Computational Communication and Human–AI Communication<br>
-[todandan@foxmail.com](mailto:todandan@foxmail.com) · [ORCID](https://orcid.org/0009-0002-4702-8070)
+[todandan@foxmail.com](mailto:todandan@foxmail.com) · <a href="https://orcid.org/0009-0002-4702-8070" style="color: var(--global-link-color);">ORCID: 0009-0002-4702-8070</a><br>
+Academic website: <a href="https://s2134717ldd.github.io/smiledan713.github.io/" style="color: var(--global-link-color);">https://s2134717ldd.github.io/smiledan713.github.io/</a>
 
 Education
 ======
