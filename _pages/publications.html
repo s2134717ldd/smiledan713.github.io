@@ -22,6 +22,11 @@ author_profile: true
       {% assign other_journals = journals | where_exp: "journal", "journal.cas_quartile != 1" | where_exp: "journal", "journal.cas_quartile != 2" %}
       {% assign last_journals = journals | where: "listing_last", true %}
       {% assign publications = quartile_one | concat: quartile_two | concat: other_journals | concat: last_journals %}
+    {% elsif category[0] == 'conferences' %}
+      {% assign conferences = site.publications | where: "category", "conferences" | sort: "date" | reverse %}
+      {% assign regular_conferences = conferences | where_exp: "conference", "conference.listing_last != true" %}
+      {% assign last_conferences = conferences | where: "listing_last", true %}
+      {% assign publications = regular_conferences | concat: last_conferences %}
     {% endif %}
     {% assign title_shown = false %}
     {% for post in publications %}

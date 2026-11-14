@@ -5,6 +5,7 @@ category: conferences
 permalink: /publication/2025-intrac-frame-dynamics
 excerpt: 'This conference paper examines frame dynamics across government, social media, and public discourse in China COVID-19 crisis communication, moving beyond top-down messaging perspectives.'
 date: 2025-10-23
+listing_last: true
 venue: 'INTRAC 2025'
 #slidesurl: 'http://academicpages.github.io/files/slides12.pdf'
 #paperurl: 'https://doi.org/'

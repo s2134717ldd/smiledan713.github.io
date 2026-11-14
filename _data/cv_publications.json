@@ -108,12 +108,6 @@
     "citation": "Fan, Guangrui; <strong>Liu, Dandan</strong> (2025). Co-Constructing Meaning with Large Language Models: A Longitudinal Analysis of Human-AI Dialogues in Emotional Support Contexts. In <i>Proceedings of the 47th Annual Conference of the Cognitive Science Society</i>, 3164–3171. <a href=\"https://escholarship.org/uc/item/4dn5q26f\">Full text</a>. <strong>[CCF B]</strong>"
   },
   {
-    "id": "C3",
-    "category": "conference",
-    "file": "_publications/2025-intrac-frame-dynamics.md",
-    "citation": "<strong>Liu, DanDan</strong>. (2025). Beyond Top-Down Messaging: Frame Dynamics Across Government, Social Media, and Public Discourse in China's COVID-19 Crisis Communication. In <i>INTRAC 2025</i>."
-  },
-  {
     "id": "C4",
     "category": "conference",
     "file": "_publications/2026-08-01-feeling-rules.md",
@@ -178,5 +172,11 @@
     "category": "conference",
     "file": "_publications/2025-ijcnn-artists-ai.md",
     "citation": "Fan, G., <strong>Liu, D.</strong>, Pan, L., &amp; Huang, Y. (2025). Mapping Override Behavior: Investigating Why and How Artists Reject AI Suggestions in Collaborative Creation. In <i>2025 International Joint Conference on Neural Networks (IJCNN)</i>. <strong>[CCF C]</strong>"
+  },
+  {
+    "id": "C3",
+    "category": "conference",
+    "file": "_publications/2025-intrac-frame-dynamics.md",
+    "citation": "<strong>Liu, DanDan</strong>. (2025). Beyond Top-Down Messaging: Frame Dynamics Across Government, Social Media, and Public Discourse in China's COVID-19 Crisis Communication. In <i>INTRAC 2025</i>."
   }
 ]
