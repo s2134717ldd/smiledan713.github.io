@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm Dandan Liu (Ivy), a PhD candidate in the Department of Media and Communication Studies, Faculty of Arts and Social Sciences at Universiti Malaya, Malaysia.
+Welcome! I'm Dandan Liu (Ivy), a PhD candidate in Journalism and Communication at Universiti Malaya, Malaysia (Department of Media and Communication Studies, Faculty of Arts and Social Sciences).
 
 {% include research-interests-banner.html %}
 
@@ -64,7 +64,7 @@ My interdisciplinary work demonstrates the application of communication theories
 
 Academic Background
 ======
-I hold both my bachelor's and master's degrees in Journalism and Communication from Fudan University's School of Journalism (QS Top 31, Chinese 985&211 Project Elite Institution). My bachelor thesis on mobile news app usage received the Second Prize of People's Daily Online Excellent Paper Award. I am currently pursuing my PhD at Universiti Malaya, focusing on advanced research in media and communication studies with emphasis on computational methods and digital discourse analysis.
+I hold both my bachelor's and master's degrees in Journalism and Communication from Fudan University's School of Journalism (QS Top 31, Chinese 985&211 Project Elite Institution). My bachelor thesis on mobile news app usage received the Second Prize of People's Daily Online Excellent Paper Award. I am currently pursuing my PhD in Journalism and Communication at Universiti Malaya, focusing on advanced research in media and communication studies with emphasis on computational methods and digital discourse analysis.
 
 **PhD period:** October 2022–March 2027 (expected graduation).<br>
 **PhD thesis:** *SEMANTIC GOVERNANCE AND CRISIS FRAMING IN CHINA’S COVID-19 PRESS CONFERENCES 2020–2023*.
