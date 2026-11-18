@@ -12,7 +12,7 @@ redirect_from:
 **中文主版：**[下载 PDF]({{ '/files/Dandan_Liu_CV_CN.pdf' | relative_url }})<br>
 **English version:** [PDF]({{ '/files/Dandan_Liu_CV_EN.pdf' | relative_url }})
 
-Updated 17 November 2026.
+Updated 18 November 2026.
 
 **Dandan Liu (刘丹丹)**<br>
 PhD Candidate in Journalism and Communication, Universiti Malaya<br>

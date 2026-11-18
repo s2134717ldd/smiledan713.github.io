@@ -47,8 +47,6 @@ My research has been published in top-tier international journals and conference
 
 - Fan, Guangrui, & **Liu, Dandan** (2025). Co-Constructing Meaning with Large Language Models: A Longitudinal Analysis of Human-AI Dialogues in Emotional Support Contexts. *Proceedings of the 47th Annual Conference of the Cognitive Science Society*, 3164–3171. [Full text](https://escholarship.org/uc/item/4dn5q26f).
 
-- **Liu, DanDan**. (2025). Beyond Top-Down Messaging: Frame Dynamics Across Government, Social Media, and Public Discourse in China's COVID-19 Crisis Communication. In *INTRAC 2025*.
-
 - Fan, G., **Liu, D.**, Pan, L., & Huang, Y. (2025). Creative Momentum Transfer: How Timing and Labeling of AI Suggestions Shape Iterative Human Ideation. In *International Joint Conferences on Artificial Intelligence (IJCAI)*. **(CCF A)**
 
 **Top-Tier Journal Publications (SCI 中科院Q1)**
